@@ -1,4 +1,4 @@
-export const pokedex = [{
+[{
     "id": 1,
     "name": {
       "english": "Bulbasaur",
@@ -14,8 +14,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 49,
       "Defense": 49,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -35,8 +35,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 62,
       "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 60
     }
   },
@@ -56,8 +56,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 82,
       "Defense": 83,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 80
     }
   },
@@ -76,8 +76,8 @@ export const pokedex = [{
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "SpAttack": 60,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -96,8 +96,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "SpAttack": 80,
+      "SpDefense": 65,
       "Speed": 80
     }
   },
@@ -117,8 +117,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
-      "Sp. Attack": 109,
-      "Sp. Defense": 85,
+      "SpAttack": 109,
+      "SpDefense": 85,
       "Speed": 100
     }
   },
@@ -137,8 +137,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 48,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 64,
+      "SpAttack": 50,
+      "SpDefense": 64,
       "Speed": 43
     }
   },
@@ -157,8 +157,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 63,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 80,
+      "SpAttack": 65,
+      "SpDefense": 80,
       "Speed": 58
     }
   },
@@ -177,8 +177,8 @@ export const pokedex = [{
       "HP": 79,
       "Attack": 83,
       "Defense": 100,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
+      "SpAttack": 85,
+      "SpDefense": 105,
       "Speed": 78
     }
   },
@@ -197,8 +197,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 20,
+      "SpAttack": 20,
+      "SpDefense": 20,
       "Speed": 45
     }
   },
@@ -217,8 +217,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 20,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 30
     }
   },
@@ -238,8 +238,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 45,
       "Defense": 50,
-      "Sp. Attack": 90,
-      "Sp. Defense": 80,
+      "SpAttack": 90,
+      "SpDefense": 80,
       "Speed": 70
     }
   },
@@ -259,8 +259,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
-      "Sp. Attack": 20,
-      "Sp. Defense": 20,
+      "SpAttack": 20,
+      "SpDefense": 20,
       "Speed": 50
     }
   },
@@ -280,8 +280,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 25,
       "Defense": 50,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 35
     }
   },
@@ -301,8 +301,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 90,
       "Defense": 40,
-      "Sp. Attack": 45,
-      "Sp. Defense": 80,
+      "SpAttack": 45,
+      "SpDefense": 80,
       "Speed": 75
     }
   },
@@ -322,8 +322,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 56
     }
   },
@@ -343,8 +343,8 @@ export const pokedex = [{
       "HP": 63,
       "Attack": 60,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 71
     }
   },
@@ -364,8 +364,8 @@ export const pokedex = [{
       "HP": 83,
       "Attack": 80,
       "Defense": 75,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 101
     }
   },
@@ -384,8 +384,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 56,
       "Defense": 35,
-      "Sp. Attack": 25,
-      "Sp. Defense": 35,
+      "SpAttack": 25,
+      "SpDefense": 35,
       "Speed": 72
     }
   },
@@ -404,8 +404,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 81,
       "Defense": 60,
-      "Sp. Attack": 50,
-      "Sp. Defense": 70,
+      "SpAttack": 50,
+      "SpDefense": 70,
       "Speed": 97
     }
   },
@@ -425,8 +425,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 60,
       "Defense": 30,
-      "Sp. Attack": 31,
-      "Sp. Defense": 31,
+      "SpAttack": 31,
+      "SpDefense": 31,
       "Speed": 70
     }
   },
@@ -446,8 +446,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 90,
       "Defense": 65,
-      "Sp. Attack": 61,
-      "Sp. Defense": 61,
+      "SpAttack": 61,
+      "SpDefense": 61,
       "Speed": 100
     }
   },
@@ -466,8 +466,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 60,
       "Defense": 44,
-      "Sp. Attack": 40,
-      "Sp. Defense": 54,
+      "SpAttack": 40,
+      "SpDefense": 54,
       "Speed": 55
     }
   },
@@ -486,8 +486,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 95,
       "Defense": 69,
-      "Sp. Attack": 65,
-      "Sp. Defense": 79,
+      "SpAttack": 65,
+      "SpDefense": 79,
       "Speed": 80
     }
   },
@@ -506,8 +506,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 55,
       "Defense": 40,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 90
     }
   },
@@ -526,8 +526,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 90,
       "Defense": 55,
-      "Sp. Attack": 90,
-      "Sp. Defense": 80,
+      "SpAttack": 90,
+      "SpDefense": 80,
       "Speed": 110
     }
   },
@@ -546,8 +546,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "SpAttack": 20,
+      "SpDefense": 30,
       "Speed": 40
     }
   },
@@ -566,8 +566,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 100,
       "Defense": 110,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 65
     }
   },
@@ -586,8 +586,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 47,
       "Defense": 52,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 41
     }
   },
@@ -606,8 +606,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 62,
       "Defense": 67,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 56
     }
   },
@@ -627,8 +627,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 92,
       "Defense": 87,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "SpAttack": 75,
+      "SpDefense": 85,
       "Speed": 76
     }
   },
@@ -647,8 +647,8 @@ export const pokedex = [{
       "HP": 46,
       "Attack": 57,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 50
     }
   },
@@ -667,8 +667,8 @@ export const pokedex = [{
       "HP": 61,
       "Attack": 72,
       "Defense": 57,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 65
     }
   },
@@ -688,8 +688,8 @@ export const pokedex = [{
       "HP": 81,
       "Attack": 102,
       "Defense": 77,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 85
     }
   },
@@ -708,8 +708,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 45,
       "Defense": 48,
-      "Sp. Attack": 60,
-      "Sp. Defense": 65,
+      "SpAttack": 60,
+      "SpDefense": 65,
       "Speed": 35
     }
   },
@@ -728,8 +728,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 70,
       "Defense": 73,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "SpAttack": 95,
+      "SpDefense": 90,
       "Speed": 60
     }
   },
@@ -748,8 +748,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 41,
       "Defense": 40,
-      "Sp. Attack": 50,
-      "Sp. Defense": 65,
+      "SpAttack": 50,
+      "SpDefense": 65,
       "Speed": 65
     }
   },
@@ -768,8 +768,8 @@ export const pokedex = [{
       "HP": 73,
       "Attack": 76,
       "Defense": 75,
-      "Sp. Attack": 81,
-      "Sp. Defense": 100,
+      "SpAttack": 81,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -789,8 +789,8 @@ export const pokedex = [{
       "HP": 115,
       "Attack": 45,
       "Defense": 20,
-      "Sp. Attack": 45,
-      "Sp. Defense": 25,
+      "SpAttack": 45,
+      "SpDefense": 25,
       "Speed": 20
     }
   },
@@ -810,8 +810,8 @@ export const pokedex = [{
       "HP": 140,
       "Attack": 70,
       "Defense": 45,
-      "Sp. Attack": 85,
-      "Sp. Defense": 50,
+      "SpAttack": 85,
+      "SpDefense": 50,
       "Speed": 45
     }
   },
@@ -831,8 +831,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 30,
-      "Sp. Defense": 40,
+      "SpAttack": 30,
+      "SpDefense": 40,
       "Speed": 55
     }
   },
@@ -852,8 +852,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 80,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 75,
+      "SpAttack": 65,
+      "SpDefense": 75,
       "Speed": 90
     }
   },
@@ -873,8 +873,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 50,
       "Defense": 55,
-      "Sp. Attack": 75,
-      "Sp. Defense": 65,
+      "SpAttack": 75,
+      "SpDefense": 65,
       "Speed": 30
     }
   },
@@ -894,8 +894,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 65,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 40
     }
   },
@@ -915,8 +915,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 80,
       "Defense": 85,
-      "Sp. Attack": 110,
-      "Sp. Defense": 90,
+      "SpAttack": 110,
+      "SpDefense": 90,
       "Speed": 50
     }
   },
@@ -936,8 +936,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 70,
       "Defense": 55,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 25
     }
   },
@@ -957,8 +957,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 95,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 80,
+      "SpAttack": 60,
+      "SpDefense": 80,
       "Speed": 30
     }
   },
@@ -978,8 +978,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 55,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 55,
+      "SpAttack": 40,
+      "SpDefense": 55,
       "Speed": 45
     }
   },
@@ -999,8 +999,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 90,
-      "Sp. Defense": 75,
+      "SpAttack": 90,
+      "SpDefense": 75,
       "Speed": 90
     }
   },
@@ -1019,8 +1019,8 @@ export const pokedex = [{
       "HP": 10,
       "Attack": 55,
       "Defense": 25,
-      "Sp. Attack": 35,
-      "Sp. Defense": 45,
+      "SpAttack": 35,
+      "SpDefense": 45,
       "Speed": 95
     }
   },
@@ -1039,8 +1039,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 100,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 70,
+      "SpAttack": 50,
+      "SpDefense": 70,
       "Speed": 120
     }
   },
@@ -1059,8 +1059,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 90
     }
   },
@@ -1079,8 +1079,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 70,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 115
     }
   },
@@ -1099,8 +1099,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 52,
       "Defense": 48,
-      "Sp. Attack": 65,
-      "Sp. Defense": 50,
+      "SpAttack": 65,
+      "SpDefense": 50,
       "Speed": 55
     }
   },
@@ -1119,8 +1119,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 82,
       "Defense": 78,
-      "Sp. Attack": 95,
-      "Sp. Defense": 80,
+      "SpAttack": 95,
+      "SpDefense": 80,
       "Speed": 85
     }
   },
@@ -1139,8 +1139,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 80,
       "Defense": 35,
-      "Sp. Attack": 35,
-      "Sp. Defense": 45,
+      "SpAttack": 35,
+      "SpDefense": 45,
       "Speed": 70
     }
   },
@@ -1159,8 +1159,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 105,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 95
     }
   },
@@ -1179,8 +1179,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 70,
       "Defense": 45,
-      "Sp. Attack": 70,
-      "Sp. Defense": 50,
+      "SpAttack": 70,
+      "SpDefense": 50,
       "Speed": 60
     }
   },
@@ -1199,8 +1199,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 110,
       "Defense": 80,
-      "Sp. Attack": 100,
-      "Sp. Defense": 80,
+      "SpAttack": 100,
+      "SpDefense": 80,
       "Speed": 95
     }
   },
@@ -1219,8 +1219,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 90
     }
   },
@@ -1239,8 +1239,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 90
     }
   },
@@ -1260,8 +1260,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 70,
-      "Sp. Defense": 90,
+      "SpAttack": 70,
+      "SpDefense": 90,
       "Speed": 70
     }
   },
@@ -1280,8 +1280,8 @@ export const pokedex = [{
       "HP": 25,
       "Attack": 20,
       "Defense": 15,
-      "Sp. Attack": 105,
-      "Sp. Defense": 55,
+      "SpAttack": 105,
+      "SpDefense": 55,
       "Speed": 90
     }
   },
@@ -1300,8 +1300,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
-      "Sp. Attack": 120,
-      "Sp. Defense": 70,
+      "SpAttack": 120,
+      "SpDefense": 70,
       "Speed": 105
     }
   },
@@ -1320,8 +1320,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 50,
       "Defense": 45,
-      "Sp. Attack": 135,
-      "Sp. Defense": 95,
+      "SpAttack": 135,
+      "SpDefense": 95,
       "Speed": 120
     }
   },
@@ -1340,8 +1340,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 35
     }
   },
@@ -1360,8 +1360,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 50,
-      "Sp. Defense": 60,
+      "SpAttack": 50,
+      "SpDefense": 60,
       "Speed": 45
     }
   },
@@ -1380,8 +1380,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 85,
+      "SpAttack": 65,
+      "SpDefense": 85,
       "Speed": 55
     }
   },
@@ -1401,8 +1401,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 75,
       "Defense": 35,
-      "Sp. Attack": 70,
-      "Sp. Defense": 30,
+      "SpAttack": 70,
+      "SpDefense": 30,
       "Speed": 40
     }
   },
@@ -1422,8 +1422,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 90,
       "Defense": 50,
-      "Sp. Attack": 85,
-      "Sp. Defense": 45,
+      "SpAttack": 85,
+      "SpDefense": 45,
       "Speed": 55
     }
   },
@@ -1443,8 +1443,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 105,
       "Defense": 65,
-      "Sp. Attack": 100,
-      "Sp. Defense": 70,
+      "SpAttack": 100,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -1464,8 +1464,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 40,
       "Defense": 35,
-      "Sp. Attack": 50,
-      "Sp. Defense": 100,
+      "SpAttack": 50,
+      "SpDefense": 100,
       "Speed": 70
     }
   },
@@ -1485,8 +1485,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 70,
       "Defense": 65,
-      "Sp. Attack": 80,
-      "Sp. Defense": 120,
+      "SpAttack": 80,
+      "SpDefense": 120,
       "Speed": 100
     }
   },
@@ -1506,8 +1506,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 80,
       "Defense": 100,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 20
     }
   },
@@ -1527,8 +1527,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 95,
       "Defense": 115,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 35
     }
   },
@@ -1548,8 +1548,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 120,
       "Defense": 130,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -1568,8 +1568,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 85,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 90
     }
   },
@@ -1588,8 +1588,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 105
     }
   },
@@ -1609,8 +1609,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 15
     }
   },
@@ -1630,8 +1630,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 75,
       "Defense": 110,
-      "Sp. Attack": 100,
-      "Sp. Defense": 80,
+      "SpAttack": 100,
+      "SpDefense": 80,
       "Speed": 30
     }
   },
@@ -1651,8 +1651,8 @@ export const pokedex = [{
       "HP": 25,
       "Attack": 35,
       "Defense": 70,
-      "Sp. Attack": 95,
-      "Sp. Defense": 55,
+      "SpAttack": 95,
+      "SpDefense": 55,
       "Speed": 45
     }
   },
@@ -1672,8 +1672,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 60,
       "Defense": 95,
-      "Sp. Attack": 120,
-      "Sp. Defense": 70,
+      "SpAttack": 120,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -1693,8 +1693,8 @@ export const pokedex = [{
       "HP": 52,
       "Attack": 90,
       "Defense": 55,
-      "Sp. Attack": 58,
-      "Sp. Defense": 62,
+      "SpAttack": 58,
+      "SpDefense": 62,
       "Speed": 60
     }
   },
@@ -1714,8 +1714,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 85,
       "Defense": 45,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 75
     }
   },
@@ -1735,8 +1735,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 110,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 110
     }
   },
@@ -1755,8 +1755,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 45,
       "Defense": 55,
-      "Sp. Attack": 45,
-      "Sp. Defense": 70,
+      "SpAttack": 45,
+      "SpDefense": 70,
       "Speed": 45
     }
   },
@@ -1776,8 +1776,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 70,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 95,
+      "SpAttack": 70,
+      "SpDefense": 95,
       "Speed": 70
     }
   },
@@ -1796,8 +1796,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 25
     }
   },
@@ -1816,8 +1816,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 105,
       "Defense": 75,
-      "Sp. Attack": 65,
-      "Sp. Defense": 100,
+      "SpAttack": 65,
+      "SpDefense": 100,
       "Speed": 50
     }
   },
@@ -1836,8 +1836,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 65,
       "Defense": 100,
-      "Sp. Attack": 45,
-      "Sp. Defense": 25,
+      "SpAttack": 45,
+      "SpDefense": 25,
       "Speed": 40
     }
   },
@@ -1857,8 +1857,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 95,
       "Defense": 180,
-      "Sp. Attack": 85,
-      "Sp. Defense": 45,
+      "SpAttack": 85,
+      "SpDefense": 45,
       "Speed": 70
     }
   },
@@ -1878,8 +1878,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 35,
       "Defense": 30,
-      "Sp. Attack": 100,
-      "Sp. Defense": 35,
+      "SpAttack": 100,
+      "SpDefense": 35,
       "Speed": 80
     }
   },
@@ -1899,8 +1899,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 50,
       "Defense": 45,
-      "Sp. Attack": 115,
-      "Sp. Defense": 55,
+      "SpAttack": 115,
+      "SpDefense": 55,
       "Speed": 95
     }
   },
@@ -1920,8 +1920,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 130,
-      "Sp. Defense": 75,
+      "SpAttack": 130,
+      "SpDefense": 75,
       "Speed": 110
     }
   },
@@ -1941,8 +1941,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 45,
       "Defense": 160,
-      "Sp. Attack": 30,
-      "Sp. Defense": 45,
+      "SpAttack": 30,
+      "SpDefense": 45,
       "Speed": 70
     }
   },
@@ -1961,8 +1961,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 48,
       "Defense": 45,
-      "Sp. Attack": 43,
-      "Sp. Defense": 90,
+      "SpAttack": 43,
+      "SpDefense": 90,
       "Speed": 42
     }
   },
@@ -1981,8 +1981,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 73,
       "Defense": 70,
-      "Sp. Attack": 73,
-      "Sp. Defense": 115,
+      "SpAttack": 73,
+      "SpDefense": 115,
       "Speed": 67
     }
   },
@@ -2001,8 +2001,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 105,
       "Defense": 90,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 50
     }
   },
@@ -2021,8 +2021,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 130,
       "Defense": 115,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 75
     }
   },
@@ -2041,8 +2041,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 100
     }
   },
@@ -2061,8 +2061,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 150
     }
   },
@@ -2082,8 +2082,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 40,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 45,
+      "SpAttack": 60,
+      "SpDefense": 45,
       "Speed": 40
     }
   },
@@ -2103,8 +2103,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 125,
-      "Sp. Defense": 75,
+      "SpAttack": 125,
+      "SpDefense": 75,
       "Speed": 55
     }
   },
@@ -2123,8 +2123,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 95,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 35
     }
   },
@@ -2143,8 +2143,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 80,
       "Defense": 110,
-      "Sp. Attack": 50,
-      "Sp. Defense": 80,
+      "SpAttack": 50,
+      "SpDefense": 80,
       "Speed": 45
     }
   },
@@ -2163,8 +2163,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 120,
       "Defense": 53,
-      "Sp. Attack": 35,
-      "Sp. Defense": 110,
+      "SpAttack": 35,
+      "SpDefense": 110,
       "Speed": 87
     }
   },
@@ -2183,8 +2183,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 105,
       "Defense": 79,
-      "Sp. Attack": 35,
-      "Sp. Defense": 110,
+      "SpAttack": 35,
+      "SpDefense": 110,
       "Speed": 76
     }
   },
@@ -2203,8 +2203,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 55,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "SpAttack": 60,
+      "SpDefense": 75,
       "Speed": 30
     }
   },
@@ -2223,8 +2223,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 65,
       "Defense": 95,
-      "Sp. Attack": 60,
-      "Sp. Defense": 45,
+      "SpAttack": 60,
+      "SpDefense": 45,
       "Speed": 35
     }
   },
@@ -2243,8 +2243,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 90,
       "Defense": 120,
-      "Sp. Attack": 85,
-      "Sp. Defense": 70,
+      "SpAttack": 85,
+      "SpDefense": 70,
       "Speed": 60
     }
   },
@@ -2264,8 +2264,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 85,
       "Defense": 95,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 25
     }
   },
@@ -2285,8 +2285,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 130,
       "Defense": 120,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 40
     }
   },
@@ -2305,8 +2305,8 @@ export const pokedex = [{
       "HP": 250,
       "Attack": 5,
       "Defense": 5,
-      "Sp. Attack": 35,
-      "Sp. Defense": 105,
+      "SpAttack": 35,
+      "SpDefense": 105,
       "Speed": 50
     }
   },
@@ -2325,8 +2325,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 55,
       "Defense": 115,
-      "Sp. Attack": 100,
-      "Sp. Defense": 40,
+      "SpAttack": 100,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -2345,8 +2345,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 95,
       "Defense": 80,
-      "Sp. Attack": 40,
-      "Sp. Defense": 80,
+      "SpAttack": 40,
+      "SpDefense": 80,
       "Speed": 90
     }
   },
@@ -2365,8 +2365,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 40,
       "Defense": 70,
-      "Sp. Attack": 70,
-      "Sp. Defense": 25,
+      "SpAttack": 70,
+      "SpDefense": 25,
       "Speed": 60
     }
   },
@@ -2385,8 +2385,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 65,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 45,
+      "SpAttack": 95,
+      "SpDefense": 45,
       "Speed": 85
     }
   },
@@ -2405,8 +2405,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 67,
       "Defense": 60,
-      "Sp. Attack": 35,
-      "Sp. Defense": 50,
+      "SpAttack": 35,
+      "SpDefense": 50,
       "Speed": 63
     }
   },
@@ -2425,8 +2425,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 92,
       "Defense": 65,
-      "Sp. Attack": 65,
-      "Sp. Defense": 80,
+      "SpAttack": 65,
+      "SpDefense": 80,
       "Speed": 68
     }
   },
@@ -2445,8 +2445,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 45,
       "Defense": 55,
-      "Sp. Attack": 70,
-      "Sp. Defense": 55,
+      "SpAttack": 70,
+      "SpDefense": 55,
       "Speed": 85
     }
   },
@@ -2466,8 +2466,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 100,
-      "Sp. Defense": 85,
+      "SpAttack": 100,
+      "SpDefense": 85,
       "Speed": 115
     }
   },
@@ -2487,8 +2487,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 65,
-      "Sp. Attack": 100,
-      "Sp. Defense": 120,
+      "SpAttack": 100,
+      "SpDefense": 120,
       "Speed": 90
     }
   },
@@ -2508,8 +2508,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 110,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "SpAttack": 55,
+      "SpDefense": 80,
       "Speed": 105
     }
   },
@@ -2529,8 +2529,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 50,
       "Defense": 35,
-      "Sp. Attack": 115,
-      "Sp. Defense": 95,
+      "SpAttack": 115,
+      "SpDefense": 95,
       "Speed": 95
     }
   },
@@ -2549,8 +2549,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 83,
       "Defense": 57,
-      "Sp. Attack": 95,
-      "Sp. Defense": 85,
+      "SpAttack": 95,
+      "SpDefense": 85,
       "Speed": 105
     }
   },
@@ -2569,8 +2569,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 95,
       "Defense": 57,
-      "Sp. Attack": 100,
-      "Sp. Defense": 85,
+      "SpAttack": 100,
+      "SpDefense": 85,
       "Speed": 93
     }
   },
@@ -2589,8 +2589,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 70,
+      "SpAttack": 55,
+      "SpDefense": 70,
       "Speed": 85
     }
   },
@@ -2609,8 +2609,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 100,
       "Defense": 95,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "SpAttack": 40,
+      "SpDefense": 70,
       "Speed": 110
     }
   },
@@ -2629,8 +2629,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 10,
       "Defense": 55,
-      "Sp. Attack": 15,
-      "Sp. Defense": 20,
+      "SpAttack": 15,
+      "SpDefense": 20,
       "Speed": 80
     }
   },
@@ -2650,8 +2650,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 125,
       "Defense": 79,
-      "Sp. Attack": 60,
-      "Sp. Defense": 100,
+      "SpAttack": 60,
+      "SpDefense": 100,
       "Speed": 81
     }
   },
@@ -2671,8 +2671,8 @@ export const pokedex = [{
       "HP": 130,
       "Attack": 85,
       "Defense": 80,
-      "Sp. Attack": 85,
-      "Sp. Defense": 95,
+      "SpAttack": 85,
+      "SpDefense": 95,
       "Speed": 60
     }
   },
@@ -2691,8 +2691,8 @@ export const pokedex = [{
       "HP": 48,
       "Attack": 48,
       "Defense": 48,
-      "Sp. Attack": 48,
-      "Sp. Defense": 48,
+      "SpAttack": 48,
+      "SpDefense": 48,
       "Speed": 48
     }
   },
@@ -2711,8 +2711,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 55,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "SpAttack": 45,
+      "SpDefense": 65,
       "Speed": 55
     }
   },
@@ -2731,8 +2731,8 @@ export const pokedex = [{
       "HP": 130,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 110,
-      "Sp. Defense": 95,
+      "SpAttack": 110,
+      "SpDefense": 95,
       "Speed": 65
     }
   },
@@ -2751,8 +2751,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 110,
-      "Sp. Defense": 95,
+      "SpAttack": 110,
+      "SpDefense": 95,
       "Speed": 130
     }
   },
@@ -2771,8 +2771,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 130,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 110,
+      "SpAttack": 95,
+      "SpDefense": 110,
       "Speed": 65
     }
   },
@@ -2791,8 +2791,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 40
     }
   },
@@ -2812,8 +2812,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 40,
       "Defense": 100,
-      "Sp. Attack": 90,
-      "Sp. Defense": 55,
+      "SpAttack": 90,
+      "SpDefense": 55,
       "Speed": 35
     }
   },
@@ -2833,8 +2833,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 60,
       "Defense": 125,
-      "Sp. Attack": 115,
-      "Sp. Defense": 70,
+      "SpAttack": 115,
+      "SpDefense": 70,
       "Speed": 55
     }
   },
@@ -2854,8 +2854,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 55,
-      "Sp. Defense": 45,
+      "SpAttack": 55,
+      "SpDefense": 45,
       "Speed": 55
     }
   },
@@ -2875,8 +2875,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 115,
       "Defense": 105,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "SpAttack": 65,
+      "SpDefense": 70,
       "Speed": 80
     }
   },
@@ -2896,8 +2896,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 105,
       "Defense": 65,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "SpAttack": 60,
+      "SpDefense": 75,
       "Speed": 130
     }
   },
@@ -2916,8 +2916,8 @@ export const pokedex = [{
       "HP": 160,
       "Attack": 110,
       "Defense": 65,
-      "Sp. Attack": 65,
-      "Sp. Defense": 110,
+      "SpAttack": 65,
+      "SpDefense": 110,
       "Speed": 30
     }
   },
@@ -2937,8 +2937,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 85,
       "Defense": 100,
-      "Sp. Attack": 95,
-      "Sp. Defense": 125,
+      "SpAttack": 95,
+      "SpDefense": 125,
       "Speed": 85
     }
   },
@@ -2958,8 +2958,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 90,
       "Defense": 85,
-      "Sp. Attack": 125,
-      "Sp. Defense": 90,
+      "SpAttack": 125,
+      "SpDefense": 90,
       "Speed": 100
     }
   },
@@ -2979,8 +2979,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 100,
       "Defense": 90,
-      "Sp. Attack": 125,
-      "Sp. Defense": 85,
+      "SpAttack": 125,
+      "SpDefense": 85,
       "Speed": 90
     }
   },
@@ -2999,8 +2999,8 @@ export const pokedex = [{
       "HP": 41,
       "Attack": 64,
       "Defense": 45,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 50
     }
   },
@@ -3019,8 +3019,8 @@ export const pokedex = [{
       "HP": 61,
       "Attack": 84,
       "Defense": 65,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -3040,8 +3040,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 134,
       "Defense": 95,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 80
     }
   },
@@ -3060,8 +3060,8 @@ export const pokedex = [{
       "HP": 106,
       "Attack": 110,
       "Defense": 90,
-      "Sp. Attack": 154,
-      "Sp. Defense": 90,
+      "SpAttack": 154,
+      "SpDefense": 90,
       "Speed": 130
     }
   },
@@ -3080,8 +3080,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -3100,8 +3100,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 49,
       "Defense": 65,
-      "Sp. Attack": 49,
-      "Sp. Defense": 65,
+      "SpAttack": 49,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -3120,8 +3120,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 62,
       "Defense": 80,
-      "Sp. Attack": 63,
-      "Sp. Defense": 80,
+      "SpAttack": 63,
+      "SpDefense": 80,
       "Speed": 60
     }
   },
@@ -3140,8 +3140,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 82,
       "Defense": 100,
-      "Sp. Attack": 83,
-      "Sp. Defense": 100,
+      "SpAttack": 83,
+      "SpDefense": 100,
       "Speed": 80
     }
   },
@@ -3160,8 +3160,8 @@ export const pokedex = [{
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "SpAttack": 60,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -3180,8 +3180,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "SpAttack": 80,
+      "SpDefense": 65,
       "Speed": 80
     }
   },
@@ -3200,8 +3200,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
-      "Sp. Attack": 109,
-      "Sp. Defense": 85,
+      "SpAttack": 109,
+      "SpDefense": 85,
       "Speed": 100
     }
   },
@@ -3220,8 +3220,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 65,
       "Defense": 64,
-      "Sp. Attack": 44,
-      "Sp. Defense": 48,
+      "SpAttack": 44,
+      "SpDefense": 48,
       "Speed": 43
     }
   },
@@ -3240,8 +3240,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 59,
-      "Sp. Defense": 63,
+      "SpAttack": 59,
+      "SpDefense": 63,
       "Speed": 58
     }
   },
@@ -3260,8 +3260,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 105,
       "Defense": 100,
-      "Sp. Attack": 79,
-      "Sp. Defense": 83,
+      "SpAttack": 79,
+      "SpDefense": 83,
       "Speed": 78
     }
   },
@@ -3280,8 +3280,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 46,
       "Defense": 34,
-      "Sp. Attack": 35,
-      "Sp. Defense": 45,
+      "SpAttack": 35,
+      "SpDefense": 45,
       "Speed": 20
     }
   },
@@ -3300,8 +3300,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 76,
       "Defense": 64,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 90
     }
   },
@@ -3321,8 +3321,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 36,
-      "Sp. Defense": 56,
+      "SpAttack": 36,
+      "SpDefense": 56,
       "Speed": 50
     }
   },
@@ -3342,8 +3342,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 86,
-      "Sp. Defense": 96,
+      "SpAttack": 86,
+      "SpDefense": 96,
       "Speed": 70
     }
   },
@@ -3363,8 +3363,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 20,
       "Defense": 30,
-      "Sp. Attack": 40,
-      "Sp. Defense": 80,
+      "SpAttack": 40,
+      "SpDefense": 80,
       "Speed": 55
     }
   },
@@ -3384,8 +3384,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 35,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 110,
+      "SpAttack": 55,
+      "SpDefense": 110,
       "Speed": 85
     }
   },
@@ -3405,8 +3405,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 30
     }
   },
@@ -3426,8 +3426,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 40
     }
   },
@@ -3447,8 +3447,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "SpAttack": 70,
+      "SpDefense": 80,
       "Speed": 130
     }
   },
@@ -3468,8 +3468,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 38,
       "Defense": 38,
-      "Sp. Attack": 56,
-      "Sp. Defense": 56,
+      "SpAttack": 56,
+      "SpDefense": 56,
       "Speed": 67
     }
   },
@@ -3489,8 +3489,8 @@ export const pokedex = [{
       "HP": 125,
       "Attack": 58,
       "Defense": 58,
-      "Sp. Attack": 76,
-      "Sp. Defense": 76,
+      "SpAttack": 76,
+      "SpDefense": 76,
       "Speed": 67
     }
   },
@@ -3509,8 +3509,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 40,
       "Defense": 15,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 60
     }
   },
@@ -3529,8 +3529,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 25,
       "Defense": 28,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 15
     }
   },
@@ -3550,8 +3550,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 30,
       "Defense": 15,
-      "Sp. Attack": 40,
-      "Sp. Defense": 20,
+      "SpAttack": 40,
+      "SpDefense": 20,
       "Speed": 15
     }
   },
@@ -3570,8 +3570,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 20,
       "Defense": 65,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "SpAttack": 40,
+      "SpDefense": 65,
       "Speed": 20
     }
   },
@@ -3591,8 +3591,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 40,
       "Defense": 85,
-      "Sp. Attack": 80,
-      "Sp. Defense": 105,
+      "SpAttack": 80,
+      "SpDefense": 105,
       "Speed": 40
     }
   },
@@ -3612,8 +3612,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 50,
       "Defense": 45,
-      "Sp. Attack": 70,
-      "Sp. Defense": 45,
+      "SpAttack": 70,
+      "SpDefense": 45,
       "Speed": 70
     }
   },
@@ -3633,8 +3633,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 75,
       "Defense": 70,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "SpAttack": 95,
+      "SpDefense": 70,
       "Speed": 95
     }
   },
@@ -3653,8 +3653,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 40,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "SpAttack": 65,
+      "SpDefense": 45,
       "Speed": 35
     }
   },
@@ -3673,8 +3673,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 80,
-      "Sp. Defense": 60,
+      "SpAttack": 80,
+      "SpDefense": 60,
       "Speed": 45
     }
   },
@@ -3693,8 +3693,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 115,
-      "Sp. Defense": 90,
+      "SpAttack": 115,
+      "SpDefense": 90,
       "Speed": 55
     }
   },
@@ -3713,8 +3713,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "SpAttack": 90,
+      "SpDefense": 100,
       "Speed": 50
     }
   },
@@ -3734,8 +3734,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 20,
       "Defense": 50,
-      "Sp. Attack": 20,
-      "Sp. Defense": 50,
+      "SpAttack": 20,
+      "SpDefense": 50,
       "Speed": 40
     }
   },
@@ -3755,8 +3755,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 50,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 80,
+      "SpAttack": 60,
+      "SpDefense": 80,
       "Speed": 50
     }
   },
@@ -3775,8 +3775,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 100,
       "Defense": 115,
-      "Sp. Attack": 30,
-      "Sp. Defense": 65,
+      "SpAttack": 30,
+      "SpDefense": 65,
       "Speed": 30
     }
   },
@@ -3795,8 +3795,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "SpAttack": 90,
+      "SpDefense": 100,
       "Speed": 70
     }
   },
@@ -3816,8 +3816,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 55,
+      "SpAttack": 35,
+      "SpDefense": 55,
       "Speed": 50
     }
   },
@@ -3837,8 +3837,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 45,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "SpAttack": 45,
+      "SpDefense": 65,
       "Speed": 80
     }
   },
@@ -3858,8 +3858,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 55,
       "Defense": 70,
-      "Sp. Attack": 55,
-      "Sp. Defense": 95,
+      "SpAttack": 55,
+      "SpDefense": 95,
       "Speed": 110
     }
   },
@@ -3878,8 +3878,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 70,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 55,
+      "SpAttack": 40,
+      "SpDefense": 55,
       "Speed": 85
     }
   },
@@ -3898,8 +3898,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 30
     }
   },
@@ -3918,8 +3918,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 75,
       "Defense": 55,
-      "Sp. Attack": 105,
-      "Sp. Defense": 85,
+      "SpAttack": 105,
+      "SpDefense": 85,
       "Speed": 30
     }
   },
@@ -3939,8 +3939,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 75,
-      "Sp. Defense": 45,
+      "SpAttack": 75,
+      "SpDefense": 45,
       "Speed": 95
     }
   },
@@ -3960,8 +3960,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 45,
       "Defense": 45,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 15
     }
   },
@@ -3981,8 +3981,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 85,
       "Defense": 85,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 35
     }
   },
@@ -4001,8 +4001,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 130,
-      "Sp. Defense": 95,
+      "SpAttack": 130,
+      "SpDefense": 95,
       "Speed": 110
     }
   },
@@ -4021,8 +4021,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 65,
       "Defense": 110,
-      "Sp. Attack": 60,
-      "Sp. Defense": 130,
+      "SpAttack": 60,
+      "SpDefense": 130,
       "Speed": 65
     }
   },
@@ -4042,8 +4042,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 42,
-      "Sp. Attack": 85,
-      "Sp. Defense": 42,
+      "SpAttack": 85,
+      "SpDefense": 42,
       "Speed": 91
     }
   },
@@ -4063,8 +4063,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 75,
       "Defense": 80,
-      "Sp. Attack": 100,
-      "Sp. Defense": 110,
+      "SpAttack": 100,
+      "SpDefense": 110,
       "Speed": 30
     }
   },
@@ -4083,8 +4083,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 85,
-      "Sp. Defense": 85,
+      "SpAttack": 85,
+      "SpDefense": 85,
       "Speed": 85
     }
   },
@@ -4103,8 +4103,8 @@ export const pokedex = [{
       "HP": 48,
       "Attack": 72,
       "Defense": 48,
-      "Sp. Attack": 72,
-      "Sp. Defense": 48,
+      "SpAttack": 72,
+      "SpDefense": 48,
       "Speed": 48
     }
   },
@@ -4123,8 +4123,8 @@ export const pokedex = [{
       "HP": 190,
       "Attack": 33,
       "Defense": 58,
-      "Sp. Attack": 33,
-      "Sp. Defense": 58,
+      "SpAttack": 33,
+      "SpDefense": 58,
       "Speed": 33
     }
   },
@@ -4144,8 +4144,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 90,
-      "Sp. Defense": 65,
+      "SpAttack": 90,
+      "SpDefense": 65,
       "Speed": 85
     }
   },
@@ -4164,8 +4164,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 65,
       "Defense": 90,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 15
     }
   },
@@ -4185,8 +4185,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 90,
       "Defense": 140,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 40
     }
   },
@@ -4205,8 +4205,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -4226,8 +4226,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 75,
       "Defense": 105,
-      "Sp. Attack": 35,
-      "Sp. Defense": 65,
+      "SpAttack": 35,
+      "SpDefense": 65,
       "Speed": 85
     }
   },
@@ -4247,8 +4247,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 85,
       "Defense": 200,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 30
     }
   },
@@ -4267,8 +4267,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 30
     }
   },
@@ -4287,8 +4287,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 120,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 45
     }
   },
@@ -4308,8 +4308,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 85
     }
   },
@@ -4329,8 +4329,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 130,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "SpAttack": 55,
+      "SpDefense": 80,
       "Speed": 65
     }
   },
@@ -4350,8 +4350,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 10,
       "Defense": 230,
-      "Sp. Attack": 10,
-      "Sp. Defense": 230,
+      "SpAttack": 10,
+      "SpDefense": 230,
       "Speed": 5
     }
   },
@@ -4371,8 +4371,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 125,
       "Defense": 75,
-      "Sp. Attack": 40,
-      "Sp. Defense": 95,
+      "SpAttack": 40,
+      "SpDefense": 95,
       "Speed": 85
     }
   },
@@ -4392,8 +4392,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 95,
       "Defense": 55,
-      "Sp. Attack": 35,
-      "Sp. Defense": 75,
+      "SpAttack": 35,
+      "SpDefense": 75,
       "Speed": 115
     }
   },
@@ -4412,8 +4412,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 40
     }
   },
@@ -4432,8 +4432,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 130,
       "Defense": 75,
-      "Sp. Attack": 75,
-      "Sp. Defense": 75,
+      "SpAttack": 75,
+      "SpDefense": 75,
       "Speed": 55
     }
   },
@@ -4452,8 +4452,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 40,
       "Defense": 40,
-      "Sp. Attack": 70,
-      "Sp. Defense": 40,
+      "SpAttack": 70,
+      "SpDefense": 40,
       "Speed": 20
     }
   },
@@ -4473,8 +4473,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 120,
-      "Sp. Attack": 90,
-      "Sp. Defense": 80,
+      "SpAttack": 90,
+      "SpDefense": 80,
       "Speed": 30
     }
   },
@@ -4494,8 +4494,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 50
     }
   },
@@ -4515,8 +4515,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 50
     }
   },
@@ -4536,8 +4536,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 55,
       "Defense": 95,
-      "Sp. Attack": 65,
-      "Sp. Defense": 95,
+      "SpAttack": 65,
+      "SpDefense": 95,
       "Speed": 35
     }
   },
@@ -4556,8 +4556,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 65,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 35,
+      "SpAttack": 65,
+      "SpDefense": 35,
       "Speed": 65
     }
   },
@@ -4576,8 +4576,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 105,
       "Defense": 75,
-      "Sp. Attack": 105,
-      "Sp. Defense": 75,
+      "SpAttack": 105,
+      "SpDefense": 75,
       "Speed": 45
     }
   },
@@ -4597,8 +4597,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "SpAttack": 65,
+      "SpDefense": 45,
       "Speed": 75
     }
   },
@@ -4618,8 +4618,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 40,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 140,
+      "SpAttack": 80,
+      "SpDefense": 140,
       "Speed": 70
     }
   },
@@ -4639,8 +4639,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 80,
       "Defense": 140,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "SpAttack": 40,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -4660,8 +4660,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 60,
       "Defense": 30,
-      "Sp. Attack": 80,
-      "Sp. Defense": 50,
+      "SpAttack": 80,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -4681,8 +4681,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 90,
       "Defense": 50,
-      "Sp. Attack": 110,
-      "Sp. Defense": 80,
+      "SpAttack": 110,
+      "SpDefense": 80,
       "Speed": 95
     }
   },
@@ -4702,8 +4702,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "SpAttack": 95,
+      "SpDefense": 95,
       "Speed": 85
     }
   },
@@ -4722,8 +4722,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 40
     }
   },
@@ -4742,8 +4742,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 50
     }
   },
@@ -4762,8 +4762,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 105,
-      "Sp. Defense": 95,
+      "SpAttack": 105,
+      "SpDefense": 95,
       "Speed": 60
     }
   },
@@ -4782,8 +4782,8 @@ export const pokedex = [{
       "HP": 73,
       "Attack": 95,
       "Defense": 62,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "SpAttack": 85,
+      "SpDefense": 65,
       "Speed": 85
     }
   },
@@ -4802,8 +4802,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 20,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 45,
+      "SpAttack": 20,
+      "SpDefense": 45,
       "Speed": 75
     }
   },
@@ -4822,8 +4822,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 35,
       "Defense": 35,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 35
     }
   },
@@ -4842,8 +4842,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 35,
-      "Sp. Defense": 110,
+      "SpAttack": 35,
+      "SpDefense": 110,
       "Speed": 70
     }
   },
@@ -4863,8 +4863,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 30,
       "Defense": 15,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "SpAttack": 85,
+      "SpDefense": 65,
       "Speed": 65
     }
   },
@@ -4883,8 +4883,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 63,
       "Defense": 37,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 95
     }
   },
@@ -4903,8 +4903,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 75,
       "Defense": 37,
-      "Sp. Attack": 70,
-      "Sp. Defense": 55,
+      "SpAttack": 70,
+      "SpDefense": 55,
       "Speed": 83
     }
   },
@@ -4923,8 +4923,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 80,
       "Defense": 105,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "SpAttack": 40,
+      "SpDefense": 70,
       "Speed": 100
     }
   },
@@ -4943,8 +4943,8 @@ export const pokedex = [{
       "HP": 255,
       "Attack": 10,
       "Defense": 10,
-      "Sp. Attack": 75,
-      "Sp. Defense": 135,
+      "SpAttack": 75,
+      "SpDefense": 135,
       "Speed": 55
     }
   },
@@ -4963,8 +4963,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 85,
       "Defense": 75,
-      "Sp. Attack": 115,
-      "Sp. Defense": 100,
+      "SpAttack": 115,
+      "SpDefense": 100,
       "Speed": 115
     }
   },
@@ -4983,8 +4983,8 @@ export const pokedex = [{
       "HP": 115,
       "Attack": 115,
       "Defense": 85,
-      "Sp. Attack": 90,
-      "Sp. Defense": 75,
+      "SpAttack": 90,
+      "SpDefense": 75,
       "Speed": 100
     }
   },
@@ -5003,8 +5003,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 75,
       "Defense": 115,
-      "Sp. Attack": 90,
-      "Sp. Defense": 115,
+      "SpAttack": 90,
+      "SpDefense": 115,
       "Speed": 85
     }
   },
@@ -5024,8 +5024,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 64,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "SpAttack": 45,
+      "SpDefense": 50,
       "Speed": 41
     }
   },
@@ -5045,8 +5045,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 84,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "SpAttack": 65,
+      "SpDefense": 70,
       "Speed": 51
     }
   },
@@ -5066,8 +5066,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 134,
       "Defense": 110,
-      "Sp. Attack": 95,
-      "Sp. Defense": 100,
+      "SpAttack": 95,
+      "SpDefense": 100,
       "Speed": 61
     }
   },
@@ -5087,8 +5087,8 @@ export const pokedex = [{
       "HP": 106,
       "Attack": 90,
       "Defense": 130,
-      "Sp. Attack": 90,
-      "Sp. Defense": 154,
+      "SpAttack": 90,
+      "SpDefense": 154,
       "Speed": 110
     }
   },
@@ -5108,8 +5108,8 @@ export const pokedex = [{
       "HP": 106,
       "Attack": 130,
       "Defense": 90,
-      "Sp. Attack": 110,
-      "Sp. Defense": 154,
+      "SpAttack": 110,
+      "SpDefense": 154,
       "Speed": 90
     }
   },
@@ -5129,8 +5129,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -5149,8 +5149,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 70
     }
   },
@@ -5169,8 +5169,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "SpAttack": 85,
+      "SpDefense": 65,
       "Speed": 95
     }
   },
@@ -5189,8 +5189,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 85,
       "Defense": 65,
-      "Sp. Attack": 105,
-      "Sp. Defense": 85,
+      "SpAttack": 105,
+      "SpDefense": 85,
       "Speed": 120
     }
   },
@@ -5209,8 +5209,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 70,
-      "Sp. Defense": 50,
+      "SpAttack": 70,
+      "SpDefense": 50,
       "Speed": 45
     }
   },
@@ -5230,8 +5230,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 85,
-      "Sp. Defense": 60,
+      "SpAttack": 85,
+      "SpDefense": 60,
       "Speed": 55
     }
   },
@@ -5251,8 +5251,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 120,
       "Defense": 70,
-      "Sp. Attack": 110,
-      "Sp. Defense": 70,
+      "SpAttack": 110,
+      "SpDefense": 70,
       "Speed": 80
     }
   },
@@ -5271,8 +5271,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 40
     }
   },
@@ -5292,8 +5292,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 50
     }
   },
@@ -5313,8 +5313,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 110,
       "Defense": 90,
-      "Sp. Attack": 85,
-      "Sp. Defense": 90,
+      "SpAttack": 85,
+      "SpDefense": 90,
       "Speed": 60
     }
   },
@@ -5333,8 +5333,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 55,
       "Defense": 35,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 35
     }
   },
@@ -5353,8 +5353,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 70
     }
   },
@@ -5373,8 +5373,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 30,
       "Defense": 41,
-      "Sp. Attack": 30,
-      "Sp. Defense": 41,
+      "SpAttack": 30,
+      "SpDefense": 41,
       "Speed": 60
     }
   },
@@ -5393,8 +5393,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 70,
       "Defense": 61,
-      "Sp. Attack": 50,
-      "Sp. Defense": 61,
+      "SpAttack": 50,
+      "SpDefense": 61,
       "Speed": 100
     }
   },
@@ -5413,8 +5413,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "SpAttack": 20,
+      "SpDefense": 30,
       "Speed": 20
     }
   },
@@ -5433,8 +5433,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 15
     }
   },
@@ -5454,8 +5454,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 100,
-      "Sp. Defense": 50,
+      "SpAttack": 100,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -5474,8 +5474,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 15
     }
   },
@@ -5495,8 +5495,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 70,
-      "Sp. Attack": 50,
-      "Sp. Defense": 90,
+      "SpAttack": 50,
+      "SpDefense": 90,
       "Speed": 65
     }
   },
@@ -5516,8 +5516,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 30
     }
   },
@@ -5537,8 +5537,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 50
     }
   },
@@ -5558,8 +5558,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "SpAttack": 90,
+      "SpDefense": 100,
       "Speed": 70
     }
   },
@@ -5578,8 +5578,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 30
     }
   },
@@ -5599,8 +5599,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "SpAttack": 60,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -5620,8 +5620,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 100,
       "Defense": 60,
-      "Sp. Attack": 90,
-      "Sp. Defense": 60,
+      "SpAttack": 90,
+      "SpDefense": 60,
       "Speed": 80
     }
   },
@@ -5641,8 +5641,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 85
     }
   },
@@ -5662,8 +5662,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 50,
+      "SpAttack": 75,
+      "SpDefense": 50,
       "Speed": 125
     }
   },
@@ -5683,8 +5683,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 55,
-      "Sp. Defense": 30,
+      "SpAttack": 55,
+      "SpDefense": 30,
       "Speed": 85
     }
   },
@@ -5704,8 +5704,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 100,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "SpAttack": 95,
+      "SpDefense": 70,
       "Speed": 65
     }
   },
@@ -5725,8 +5725,8 @@ export const pokedex = [{
       "HP": 28,
       "Attack": 25,
       "Defense": 25,
-      "Sp. Attack": 45,
-      "Sp. Defense": 35,
+      "SpAttack": 45,
+      "SpDefense": 35,
       "Speed": 40
     }
   },
@@ -5746,8 +5746,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 35,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 50
     }
   },
@@ -5767,8 +5767,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 125,
-      "Sp. Defense": 115,
+      "SpAttack": 125,
+      "SpDefense": 115,
       "Speed": 80
     }
   },
@@ -5788,8 +5788,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 32,
-      "Sp. Attack": 50,
-      "Sp. Defense": 52,
+      "SpAttack": 50,
+      "SpDefense": 52,
       "Speed": 65
     }
   },
@@ -5809,8 +5809,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 60,
       "Defense": 62,
-      "Sp. Attack": 100,
-      "Sp. Defense": 82,
+      "SpAttack": 100,
+      "SpDefense": 82,
       "Speed": 80
     }
   },
@@ -5829,8 +5829,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "SpAttack": 40,
+      "SpDefense": 60,
       "Speed": 35
     }
   },
@@ -5850,8 +5850,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 70
     }
   },
@@ -5870,8 +5870,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 30
     }
   },
@@ -5890,8 +5890,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 90
     }
   },
@@ -5910,8 +5910,8 @@ export const pokedex = [{
       "HP": 150,
       "Attack": 160,
       "Defense": 100,
-      "Sp. Attack": 95,
-      "Sp. Defense": 65,
+      "SpAttack": 95,
+      "SpDefense": 65,
       "Speed": 100
     }
   },
@@ -5931,8 +5931,8 @@ export const pokedex = [{
       "HP": 31,
       "Attack": 45,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 40
     }
   },
@@ -5952,8 +5952,8 @@ export const pokedex = [{
       "HP": 61,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 160
     }
   },
@@ -5973,8 +5973,8 @@ export const pokedex = [{
       "HP": 1,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 40
     }
   },
@@ -5993,8 +5993,8 @@ export const pokedex = [{
       "HP": 64,
       "Attack": 51,
       "Defense": 23,
-      "Sp. Attack": 51,
-      "Sp. Defense": 23,
+      "SpAttack": 51,
+      "SpDefense": 23,
       "Speed": 28
     }
   },
@@ -6013,8 +6013,8 @@ export const pokedex = [{
       "HP": 84,
       "Attack": 71,
       "Defense": 43,
-      "Sp. Attack": 71,
-      "Sp. Defense": 43,
+      "SpAttack": 71,
+      "SpDefense": 43,
       "Speed": 48
     }
   },
@@ -6033,8 +6033,8 @@ export const pokedex = [{
       "HP": 104,
       "Attack": 91,
       "Defense": 63,
-      "Sp. Attack": 91,
-      "Sp. Defense": 73,
+      "SpAttack": 91,
+      "SpDefense": 73,
       "Speed": 68
     }
   },
@@ -6053,8 +6053,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 60,
       "Defense": 30,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "SpAttack": 20,
+      "SpDefense": 30,
       "Speed": 25
     }
   },
@@ -6073,8 +6073,8 @@ export const pokedex = [{
       "HP": 144,
       "Attack": 120,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "SpAttack": 40,
+      "SpDefense": 60,
       "Speed": 50
     }
   },
@@ -6094,8 +6094,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 20,
       "Defense": 40,
-      "Sp. Attack": 20,
-      "Sp. Defense": 40,
+      "SpAttack": 20,
+      "SpDefense": 40,
       "Speed": 20
     }
   },
@@ -6114,8 +6114,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 45,
       "Defense": 135,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "SpAttack": 45,
+      "SpDefense": 90,
       "Speed": 30
     }
   },
@@ -6134,8 +6134,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 45,
       "Defense": 45,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 50
     }
   },
@@ -6154,8 +6154,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 90
     }
   },
@@ -6175,8 +6175,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 50
     }
   },
@@ -6196,8 +6196,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 85,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 50
     }
   },
@@ -6217,8 +6217,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 70,
       "Defense": 100,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 30
     }
   },
@@ -6238,8 +6238,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 90,
       "Defense": 140,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 40
     }
   },
@@ -6259,8 +6259,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 110,
       "Defense": 180,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 50
     }
   },
@@ -6280,8 +6280,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 40,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 55,
+      "SpAttack": 40,
+      "SpDefense": 55,
       "Speed": 60
     }
   },
@@ -6301,8 +6301,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "SpAttack": 60,
+      "SpDefense": 75,
       "Speed": 80
     }
   },
@@ -6321,8 +6321,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 40,
+      "SpAttack": 65,
+      "SpDefense": 40,
       "Speed": 65
     }
   },
@@ -6341,8 +6341,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 105,
-      "Sp. Defense": 60,
+      "SpAttack": 105,
+      "SpDefense": 60,
       "Speed": 105
     }
   },
@@ -6361,8 +6361,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 95
     }
   },
@@ -6381,8 +6381,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "SpAttack": 75,
+      "SpDefense": 85,
       "Speed": 95
     }
   },
@@ -6401,8 +6401,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 73,
       "Defense": 75,
-      "Sp. Attack": 47,
-      "Sp. Defense": 85,
+      "SpAttack": 47,
+      "SpDefense": 85,
       "Speed": 85
     }
   },
@@ -6421,8 +6421,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 47,
       "Defense": 75,
-      "Sp. Attack": 73,
-      "Sp. Defense": 85,
+      "SpAttack": 73,
+      "SpDefense": 85,
       "Speed": 85
     }
   },
@@ -6442,8 +6442,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 60,
       "Defense": 45,
-      "Sp. Attack": 100,
-      "Sp. Defense": 80,
+      "SpAttack": 100,
+      "SpDefense": 80,
       "Speed": 65
     }
   },
@@ -6462,8 +6462,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 43,
       "Defense": 53,
-      "Sp. Attack": 43,
-      "Sp. Defense": 53,
+      "SpAttack": 43,
+      "SpDefense": 53,
       "Speed": 40
     }
   },
@@ -6482,8 +6482,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 73,
       "Defense": 83,
-      "Sp. Attack": 73,
-      "Sp. Defense": 83,
+      "SpAttack": 73,
+      "SpDefense": 83,
       "Speed": 55
     }
   },
@@ -6503,8 +6503,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 90,
       "Defense": 20,
-      "Sp. Attack": 65,
-      "Sp. Defense": 20,
+      "SpAttack": 65,
+      "SpDefense": 20,
       "Speed": 65
     }
   },
@@ -6524,8 +6524,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 120,
       "Defense": 40,
-      "Sp. Attack": 95,
-      "Sp. Defense": 40,
+      "SpAttack": 95,
+      "SpDefense": 40,
       "Speed": 95
     }
   },
@@ -6544,8 +6544,8 @@ export const pokedex = [{
       "HP": 130,
       "Attack": 70,
       "Defense": 35,
-      "Sp. Attack": 70,
-      "Sp. Defense": 35,
+      "SpAttack": 70,
+      "SpDefense": 35,
       "Speed": 60
     }
   },
@@ -6564,8 +6564,8 @@ export const pokedex = [{
       "HP": 170,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 90,
-      "Sp. Defense": 45,
+      "SpAttack": 90,
+      "SpDefense": 45,
       "Speed": 60
     }
   },
@@ -6585,8 +6585,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "SpAttack": 65,
+      "SpDefense": 45,
       "Speed": 35
     }
   },
@@ -6606,8 +6606,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 105,
-      "Sp. Defense": 75,
+      "SpAttack": 105,
+      "SpDefense": 75,
       "Speed": 40
     }
   },
@@ -6626,8 +6626,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 85,
       "Defense": 140,
-      "Sp. Attack": 85,
-      "Sp. Defense": 70,
+      "SpAttack": 85,
+      "SpDefense": 70,
       "Speed": 20
     }
   },
@@ -6646,8 +6646,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 25,
       "Defense": 35,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "SpAttack": 70,
+      "SpDefense": 80,
       "Speed": 60
     }
   },
@@ -6666,8 +6666,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 45,
       "Defense": 65,
-      "Sp. Attack": 90,
-      "Sp. Defense": 110,
+      "SpAttack": 90,
+      "SpDefense": 110,
       "Speed": 80
     }
   },
@@ -6686,8 +6686,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 60
     }
   },
@@ -6706,8 +6706,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 100,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 10
     }
   },
@@ -6727,8 +6727,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 70
     }
   },
@@ -6748,8 +6748,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 100,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 100
     }
   },
@@ -6768,8 +6768,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 85,
-      "Sp. Defense": 40,
+      "SpAttack": 85,
+      "SpDefense": 40,
       "Speed": 35
     }
   },
@@ -6789,8 +6789,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 115,
       "Defense": 60,
-      "Sp. Attack": 115,
-      "Sp. Defense": 60,
+      "SpAttack": 115,
+      "SpDefense": 60,
       "Speed": 55
     }
   },
@@ -6810,8 +6810,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 75,
+      "SpAttack": 40,
+      "SpDefense": 75,
       "Speed": 50
     }
   },
@@ -6831,8 +6831,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 70,
       "Defense": 90,
-      "Sp. Attack": 70,
-      "Sp. Defense": 105,
+      "SpAttack": 70,
+      "SpDefense": 105,
       "Speed": 80
     }
   },
@@ -6851,8 +6851,8 @@ export const pokedex = [{
       "HP": 73,
       "Attack": 115,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 90
     }
   },
@@ -6871,8 +6871,8 @@ export const pokedex = [{
       "HP": 73,
       "Attack": 100,
       "Defense": 60,
-      "Sp. Attack": 100,
-      "Sp. Defense": 60,
+      "SpAttack": 100,
+      "SpDefense": 60,
       "Speed": 65
     }
   },
@@ -6892,8 +6892,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 55,
       "Defense": 65,
-      "Sp. Attack": 95,
-      "Sp. Defense": 85,
+      "SpAttack": 95,
+      "SpDefense": 85,
       "Speed": 70
     }
   },
@@ -6913,8 +6913,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 70
     }
   },
@@ -6934,8 +6934,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 48,
       "Defense": 43,
-      "Sp. Attack": 46,
-      "Sp. Defense": 41,
+      "SpAttack": 46,
+      "SpDefense": 41,
       "Speed": 60
     }
   },
@@ -6955,8 +6955,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 78,
       "Defense": 73,
-      "Sp. Attack": 76,
-      "Sp. Defense": 71,
+      "SpAttack": 76,
+      "SpDefense": 71,
       "Speed": 60
     }
   },
@@ -6975,8 +6975,8 @@ export const pokedex = [{
       "HP": 43,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 35,
+      "SpAttack": 50,
+      "SpDefense": 35,
       "Speed": 35
     }
   },
@@ -6996,8 +6996,8 @@ export const pokedex = [{
       "HP": 63,
       "Attack": 120,
       "Defense": 85,
-      "Sp. Attack": 90,
-      "Sp. Defense": 55,
+      "SpAttack": 90,
+      "SpDefense": 55,
       "Speed": 55
     }
   },
@@ -7017,8 +7017,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 40,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "SpAttack": 40,
+      "SpDefense": 70,
       "Speed": 55
     }
   },
@@ -7038,8 +7038,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 70,
       "Defense": 105,
-      "Sp. Attack": 70,
-      "Sp. Defense": 120,
+      "SpAttack": 70,
+      "SpDefense": 120,
       "Speed": 75
     }
   },
@@ -7059,8 +7059,8 @@ export const pokedex = [{
       "HP": 66,
       "Attack": 41,
       "Defense": 77,
-      "Sp. Attack": 61,
-      "Sp. Defense": 87,
+      "SpAttack": 61,
+      "SpDefense": 87,
       "Speed": 23
     }
   },
@@ -7080,8 +7080,8 @@ export const pokedex = [{
       "HP": 86,
       "Attack": 81,
       "Defense": 97,
-      "Sp. Attack": 81,
-      "Sp. Defense": 107,
+      "SpAttack": 81,
+      "SpDefense": 107,
       "Speed": 43
     }
   },
@@ -7101,8 +7101,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 95,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 75
     }
   },
@@ -7122,8 +7122,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "SpAttack": 70,
+      "SpDefense": 80,
       "Speed": 45
     }
   },
@@ -7142,8 +7142,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 15,
       "Defense": 20,
-      "Sp. Attack": 10,
-      "Sp. Defense": 55,
+      "SpAttack": 10,
+      "SpDefense": 55,
       "Speed": 80
     }
   },
@@ -7162,8 +7162,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 60,
       "Defense": 79,
-      "Sp. Attack": 100,
-      "Sp. Defense": 125,
+      "SpAttack": 100,
+      "SpDefense": 125,
       "Speed": 81
     }
   },
@@ -7182,8 +7182,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -7202,8 +7202,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 120,
+      "SpAttack": 60,
+      "SpDefense": 120,
       "Speed": 40
     }
   },
@@ -7222,8 +7222,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 75,
       "Defense": 35,
-      "Sp. Attack": 63,
-      "Sp. Defense": 33,
+      "SpAttack": 63,
+      "SpDefense": 33,
       "Speed": 45
     }
   },
@@ -7242,8 +7242,8 @@ export const pokedex = [{
       "HP": 64,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 83,
-      "Sp. Defense": 63,
+      "SpAttack": 83,
+      "SpDefense": 63,
       "Speed": 65
     }
   },
@@ -7262,8 +7262,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 40,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 90,
+      "SpAttack": 30,
+      "SpDefense": 90,
       "Speed": 25
     }
   },
@@ -7282,8 +7282,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 70,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 130,
+      "SpAttack": 60,
+      "SpDefense": 130,
       "Speed": 25
     }
   },
@@ -7303,8 +7303,8 @@ export const pokedex = [{
       "HP": 99,
       "Attack": 68,
       "Defense": 83,
-      "Sp. Attack": 72,
-      "Sp. Defense": 87,
+      "SpAttack": 72,
+      "SpDefense": 87,
       "Speed": 51
     }
   },
@@ -7323,8 +7323,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 50,
       "Defense": 80,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "SpAttack": 95,
+      "SpDefense": 90,
       "Speed": 65
     }
   },
@@ -7343,8 +7343,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 130,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 60,
+      "SpAttack": 75,
+      "SpDefense": 60,
       "Speed": 75
     }
   },
@@ -7363,8 +7363,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 23,
       "Defense": 48,
-      "Sp. Attack": 23,
-      "Sp. Defense": 48,
+      "SpAttack": 23,
+      "SpDefense": 48,
       "Speed": 23
     }
   },
@@ -7383,8 +7383,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 50
     }
   },
@@ -7403,8 +7403,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 80
     }
   },
@@ -7424,8 +7424,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 50,
+      "SpAttack": 55,
+      "SpDefense": 50,
       "Speed": 25
     }
   },
@@ -7445,8 +7445,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 70,
+      "SpAttack": 75,
+      "SpDefense": 70,
       "Speed": 45
     }
   },
@@ -7466,8 +7466,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "SpAttack": 95,
+      "SpDefense": 90,
       "Speed": 65
     }
   },
@@ -7486,8 +7486,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 64,
       "Defense": 85,
-      "Sp. Attack": 74,
-      "Sp. Defense": 55,
+      "SpAttack": 74,
+      "SpDefense": 55,
       "Speed": 32
     }
   },
@@ -7506,8 +7506,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 104,
       "Defense": 105,
-      "Sp. Attack": 94,
-      "Sp. Defense": 75,
+      "SpAttack": 94,
+      "SpDefense": 75,
       "Speed": 52
     }
   },
@@ -7526,8 +7526,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 84,
       "Defense": 105,
-      "Sp. Attack": 114,
-      "Sp. Defense": 75,
+      "SpAttack": 114,
+      "SpDefense": 75,
       "Speed": 52
     }
   },
@@ -7547,8 +7547,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 90,
       "Defense": 130,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "SpAttack": 45,
+      "SpDefense": 65,
       "Speed": 55
     }
   },
@@ -7567,8 +7567,8 @@ export const pokedex = [{
       "HP": 43,
       "Attack": 30,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "SpAttack": 40,
+      "SpDefense": 65,
       "Speed": 97
     }
   },
@@ -7587,8 +7587,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 30,
+      "SpAttack": 40,
+      "SpDefense": 30,
       "Speed": 50
     }
   },
@@ -7607,8 +7607,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 95,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "SpAttack": 60,
+      "SpDefense": 50,
       "Speed": 50
     }
   },
@@ -7628,8 +7628,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 135,
       "Defense": 80,
-      "Sp. Attack": 110,
-      "Sp. Defense": 80,
+      "SpAttack": 110,
+      "SpDefense": 80,
       "Speed": 100
     }
   },
@@ -7649,8 +7649,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 80,
-      "Sp. Attack": 35,
-      "Sp. Defense": 60,
+      "SpAttack": 35,
+      "SpDefense": 60,
       "Speed": 30
     }
   },
@@ -7670,8 +7670,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 75,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "SpAttack": 55,
+      "SpDefense": 80,
       "Speed": 50
     }
   },
@@ -7691,8 +7691,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 135,
       "Defense": 130,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "SpAttack": 95,
+      "SpDefense": 90,
       "Speed": 70
     }
   },
@@ -7711,8 +7711,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 100,
       "Defense": 200,
-      "Sp. Attack": 50,
-      "Sp. Defense": 100,
+      "SpAttack": 50,
+      "SpDefense": 100,
       "Speed": 50
     }
   },
@@ -7731,8 +7731,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 50,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 200,
+      "SpAttack": 100,
+      "SpDefense": 200,
       "Speed": 50
     }
   },
@@ -7751,8 +7751,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 75,
       "Defense": 150,
-      "Sp. Attack": 75,
-      "Sp. Defense": 150,
+      "SpAttack": 75,
+      "SpDefense": 150,
       "Speed": 50
     }
   },
@@ -7772,8 +7772,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 110,
-      "Sp. Defense": 130,
+      "SpAttack": 110,
+      "SpDefense": 130,
       "Speed": 110
     }
   },
@@ -7793,8 +7793,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 130,
-      "Sp. Defense": 110,
+      "SpAttack": 130,
+      "SpDefense": 110,
       "Speed": 110
     }
   },
@@ -7813,8 +7813,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 90,
-      "Sp. Attack": 150,
-      "Sp. Defense": 140,
+      "SpAttack": 150,
+      "SpDefense": 140,
       "Speed": 90
     }
   },
@@ -7833,8 +7833,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 150,
       "Defense": 140,
-      "Sp. Attack": 100,
-      "Sp. Defense": 90,
+      "SpAttack": 100,
+      "SpDefense": 90,
       "Speed": 90
     }
   },
@@ -7854,8 +7854,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 150,
       "Defense": 90,
-      "Sp. Attack": 150,
-      "Sp. Defense": 90,
+      "SpAttack": 150,
+      "SpDefense": 90,
       "Speed": 95
     }
   },
@@ -7875,8 +7875,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -7895,8 +7895,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 150,
       "Defense": 50,
-      "Sp. Attack": 150,
-      "Sp. Defense": 50,
+      "SpAttack": 150,
+      "SpDefense": 50,
       "Speed": 150
     }
   },
@@ -7915,8 +7915,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 68,
       "Defense": 64,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 31
     }
   },
@@ -7935,8 +7935,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 89,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 36
     }
   },
@@ -7956,8 +7956,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 109,
       "Defense": 105,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "SpAttack": 75,
+      "SpDefense": 85,
       "Speed": 56
     }
   },
@@ -7976,8 +7976,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 58,
       "Defense": 44,
-      "Sp. Attack": 58,
-      "Sp. Defense": 44,
+      "SpAttack": 58,
+      "SpDefense": 44,
       "Speed": 61
     }
   },
@@ -7997,8 +7997,8 @@ export const pokedex = [{
       "HP": 64,
       "Attack": 78,
       "Defense": 52,
-      "Sp. Attack": 78,
-      "Sp. Defense": 52,
+      "SpAttack": 78,
+      "SpDefense": 52,
       "Speed": 81
     }
   },
@@ -8018,8 +8018,8 @@ export const pokedex = [{
       "HP": 76,
       "Attack": 104,
       "Defense": 71,
-      "Sp. Attack": 104,
-      "Sp. Defense": 71,
+      "SpAttack": 104,
+      "SpDefense": 71,
       "Speed": 108
     }
   },
@@ -8038,8 +8038,8 @@ export const pokedex = [{
       "HP": 53,
       "Attack": 51,
       "Defense": 53,
-      "Sp. Attack": 61,
-      "Sp. Defense": 56,
+      "SpAttack": 61,
+      "SpDefense": 56,
       "Speed": 40
     }
   },
@@ -8058,8 +8058,8 @@ export const pokedex = [{
       "HP": 64,
       "Attack": 66,
       "Defense": 68,
-      "Sp. Attack": 81,
-      "Sp. Defense": 76,
+      "SpAttack": 81,
+      "SpDefense": 76,
       "Speed": 50
     }
   },
@@ -8079,8 +8079,8 @@ export const pokedex = [{
       "HP": 84,
       "Attack": 86,
       "Defense": 88,
-      "Sp. Attack": 111,
-      "Sp. Defense": 101,
+      "SpAttack": 111,
+      "SpDefense": 101,
       "Speed": 60
     }
   },
@@ -8100,8 +8100,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 60
     }
   },
@@ -8121,8 +8121,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 75,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 80
     }
   },
@@ -8142,8 +8142,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 120,
       "Defense": 70,
-      "Sp. Attack": 50,
-      "Sp. Defense": 60,
+      "SpAttack": 50,
+      "SpDefense": 60,
       "Speed": 100
     }
   },
@@ -8162,8 +8162,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 40,
+      "SpAttack": 35,
+      "SpDefense": 40,
       "Speed": 31
     }
   },
@@ -8183,8 +8183,8 @@ export const pokedex = [{
       "HP": 79,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "SpAttack": 55,
+      "SpDefense": 60,
       "Speed": 71
     }
   },
@@ -8203,8 +8203,8 @@ export const pokedex = [{
       "HP": 37,
       "Attack": 25,
       "Defense": 41,
-      "Sp. Attack": 25,
-      "Sp. Defense": 41,
+      "SpAttack": 25,
+      "SpDefense": 41,
       "Speed": 25
     }
   },
@@ -8223,8 +8223,8 @@ export const pokedex = [{
       "HP": 77,
       "Attack": 85,
       "Defense": 51,
-      "Sp. Attack": 55,
-      "Sp. Defense": 51,
+      "SpAttack": 55,
+      "SpDefense": 51,
       "Speed": 65
     }
   },
@@ -8243,8 +8243,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 65,
       "Defense": 34,
-      "Sp. Attack": 40,
-      "Sp. Defense": 34,
+      "SpAttack": 40,
+      "SpDefense": 34,
       "Speed": 45
     }
   },
@@ -8263,8 +8263,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 49,
-      "Sp. Attack": 60,
-      "Sp. Defense": 49,
+      "SpAttack": 60,
+      "SpDefense": 49,
       "Speed": 60
     }
   },
@@ -8283,8 +8283,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 120,
       "Defense": 79,
-      "Sp. Attack": 95,
-      "Sp. Defense": 79,
+      "SpAttack": 95,
+      "SpDefense": 79,
       "Speed": 70
     }
   },
@@ -8304,8 +8304,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 50,
-      "Sp. Defense": 70,
+      "SpAttack": 50,
+      "SpDefense": 70,
       "Speed": 55
     }
   },
@@ -8325,8 +8325,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 70,
       "Defense": 65,
-      "Sp. Attack": 125,
-      "Sp. Defense": 105,
+      "SpAttack": 125,
+      "SpDefense": 105,
       "Speed": 90
     }
   },
@@ -8345,8 +8345,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 125,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 58
     }
   },
@@ -8365,8 +8365,8 @@ export const pokedex = [{
       "HP": 97,
       "Attack": 165,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 50,
+      "SpAttack": 65,
+      "SpDefense": 50,
       "Speed": 58
     }
   },
@@ -8386,8 +8386,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 42,
       "Defense": 118,
-      "Sp. Attack": 42,
-      "Sp. Defense": 88,
+      "SpAttack": 42,
+      "SpDefense": 88,
       "Speed": 30
     }
   },
@@ -8407,8 +8407,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 52,
       "Defense": 168,
-      "Sp. Attack": 47,
-      "Sp. Defense": 138,
+      "SpAttack": 47,
+      "SpDefense": 138,
       "Speed": 30
     }
   },
@@ -8427,8 +8427,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 29,
       "Defense": 45,
-      "Sp. Attack": 29,
-      "Sp. Defense": 45,
+      "SpAttack": 29,
+      "SpDefense": 45,
       "Speed": 36
     }
   },
@@ -8448,8 +8448,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 59,
       "Defense": 85,
-      "Sp. Attack": 79,
-      "Sp. Defense": 105,
+      "SpAttack": 79,
+      "SpDefense": 105,
       "Speed": 36
     }
   },
@@ -8469,8 +8469,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 94,
       "Defense": 50,
-      "Sp. Attack": 94,
-      "Sp. Defense": 50,
+      "SpAttack": 94,
+      "SpDefense": 50,
       "Speed": 66
     }
   },
@@ -8490,8 +8490,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 30,
       "Defense": 42,
-      "Sp. Attack": 30,
-      "Sp. Defense": 42,
+      "SpAttack": 30,
+      "SpDefense": 42,
       "Speed": 70
     }
   },
@@ -8511,8 +8511,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 80,
       "Defense": 102,
-      "Sp. Attack": 80,
-      "Sp. Defense": 102,
+      "SpAttack": 80,
+      "SpDefense": 102,
       "Speed": 40
     }
   },
@@ -8531,8 +8531,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "SpAttack": 45,
+      "SpDefense": 90,
       "Speed": 95
     }
   },
@@ -8551,8 +8551,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 65,
       "Defense": 35,
-      "Sp. Attack": 60,
-      "Sp. Defense": 30,
+      "SpAttack": 60,
+      "SpDefense": 30,
       "Speed": 85
     }
   },
@@ -8571,8 +8571,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 105,
       "Defense": 55,
-      "Sp. Attack": 85,
-      "Sp. Defense": 50,
+      "SpAttack": 85,
+      "SpDefense": 50,
       "Speed": 115
     }
   },
@@ -8591,8 +8591,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 35,
       "Defense": 45,
-      "Sp. Attack": 62,
-      "Sp. Defense": 53,
+      "SpAttack": 62,
+      "SpDefense": 53,
       "Speed": 35
     }
   },
@@ -8611,8 +8611,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 87,
-      "Sp. Defense": 78,
+      "SpAttack": 87,
+      "SpDefense": 78,
       "Speed": 85
     }
   },
@@ -8631,8 +8631,8 @@ export const pokedex = [{
       "HP": 76,
       "Attack": 48,
       "Defense": 48,
-      "Sp. Attack": 57,
-      "Sp. Defense": 62,
+      "SpAttack": 57,
+      "SpDefense": 62,
       "Speed": 34
     }
   },
@@ -8652,8 +8652,8 @@ export const pokedex = [{
       "HP": 111,
       "Attack": 83,
       "Defense": 68,
-      "Sp. Attack": 92,
-      "Sp. Defense": 82,
+      "SpAttack": 92,
+      "SpDefense": 82,
       "Speed": 39
     }
   },
@@ -8672,8 +8672,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 100,
       "Defense": 66,
-      "Sp. Attack": 60,
-      "Sp. Defense": 66,
+      "SpAttack": 60,
+      "SpDefense": 66,
       "Speed": 115
     }
   },
@@ -8693,8 +8693,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 50,
       "Defense": 34,
-      "Sp. Attack": 60,
-      "Sp. Defense": 44,
+      "SpAttack": 60,
+      "SpDefense": 44,
       "Speed": 70
     }
   },
@@ -8714,8 +8714,8 @@ export const pokedex = [{
       "HP": 150,
       "Attack": 80,
       "Defense": 44,
-      "Sp. Attack": 90,
-      "Sp. Defense": 54,
+      "SpAttack": 90,
+      "SpDefense": 54,
       "Speed": 80
     }
   },
@@ -8734,8 +8734,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 66,
       "Defense": 44,
-      "Sp. Attack": 44,
-      "Sp. Defense": 56,
+      "SpAttack": 44,
+      "SpDefense": 56,
       "Speed": 85
     }
   },
@@ -8754,8 +8754,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 76,
       "Defense": 84,
-      "Sp. Attack": 54,
-      "Sp. Defense": 96,
+      "SpAttack": 54,
+      "SpDefense": 96,
       "Speed": 105
     }
   },
@@ -8774,8 +8774,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 105,
-      "Sp. Defense": 105,
+      "SpAttack": 105,
+      "SpDefense": 105,
       "Speed": 105
     }
   },
@@ -8795,8 +8795,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 125,
       "Defense": 52,
-      "Sp. Attack": 105,
-      "Sp. Defense": 52,
+      "SpAttack": 105,
+      "SpDefense": 52,
       "Speed": 71
     }
   },
@@ -8815,8 +8815,8 @@ export const pokedex = [{
       "HP": 49,
       "Attack": 55,
       "Defense": 42,
-      "Sp. Attack": 42,
-      "Sp. Defense": 37,
+      "SpAttack": 42,
+      "SpDefense": 37,
       "Speed": 85
     }
   },
@@ -8835,8 +8835,8 @@ export const pokedex = [{
       "HP": 71,
       "Attack": 82,
       "Defense": 64,
-      "Sp. Attack": 64,
-      "Sp. Defense": 59,
+      "SpAttack": 64,
+      "SpDefense": 59,
       "Speed": 112
     }
   },
@@ -8855,8 +8855,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 50,
+      "SpAttack": 65,
+      "SpDefense": 50,
       "Speed": 45
     }
   },
@@ -8876,8 +8876,8 @@ export const pokedex = [{
       "HP": 63,
       "Attack": 63,
       "Defense": 47,
-      "Sp. Attack": 41,
-      "Sp. Defense": 41,
+      "SpAttack": 41,
+      "SpDefense": 41,
       "Speed": 74
     }
   },
@@ -8897,8 +8897,8 @@ export const pokedex = [{
       "HP": 103,
       "Attack": 93,
       "Defense": 67,
-      "Sp. Attack": 71,
-      "Sp. Defense": 61,
+      "SpAttack": 71,
+      "SpDefense": 61,
       "Speed": 84
     }
   },
@@ -8918,8 +8918,8 @@ export const pokedex = [{
       "HP": 57,
       "Attack": 24,
       "Defense": 86,
-      "Sp. Attack": 24,
-      "Sp. Defense": 86,
+      "SpAttack": 24,
+      "SpDefense": 86,
       "Speed": 23
     }
   },
@@ -8939,8 +8939,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 89,
       "Defense": 116,
-      "Sp. Attack": 79,
-      "Sp. Defense": 116,
+      "SpAttack": 79,
+      "SpDefense": 116,
       "Speed": 33
     }
   },
@@ -8959,8 +8959,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 10,
-      "Sp. Defense": 45,
+      "SpAttack": 10,
+      "SpDefense": 45,
       "Speed": 10
     }
   },
@@ -8980,8 +8980,8 @@ export const pokedex = [{
       "HP": 20,
       "Attack": 25,
       "Defense": 45,
-      "Sp. Attack": 70,
-      "Sp. Defense": 90,
+      "SpAttack": 70,
+      "SpDefense": 90,
       "Speed": 60
     }
   },
@@ -9000,8 +9000,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 5,
       "Defense": 5,
-      "Sp. Attack": 15,
-      "Sp. Defense": 65,
+      "SpAttack": 15,
+      "SpDefense": 65,
       "Speed": 30
     }
   },
@@ -9021,8 +9021,8 @@ export const pokedex = [{
       "HP": 76,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 92,
-      "Sp. Defense": 42,
+      "SpAttack": 92,
+      "SpDefense": 42,
       "Speed": 91
     }
   },
@@ -9042,8 +9042,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 92,
       "Defense": 108,
-      "Sp. Attack": 92,
-      "Sp. Defense": 108,
+      "SpAttack": 92,
+      "SpDefense": 108,
       "Speed": 35
     }
   },
@@ -9063,8 +9063,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 70,
       "Defense": 45,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "SpAttack": 40,
+      "SpDefense": 45,
       "Speed": 42
     }
   },
@@ -9084,8 +9084,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 90,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 55,
+      "SpAttack": 50,
+      "SpDefense": 55,
       "Speed": 82
     }
   },
@@ -9105,8 +9105,8 @@ export const pokedex = [{
       "HP": 108,
       "Attack": 130,
       "Defense": 95,
-      "Sp. Attack": 80,
-      "Sp. Defense": 85,
+      "SpAttack": 80,
+      "SpDefense": 85,
       "Speed": 102
     }
   },
@@ -9125,8 +9125,8 @@ export const pokedex = [{
       "HP": 135,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 85,
+      "SpAttack": 40,
+      "SpDefense": 85,
       "Speed": 5
     }
   },
@@ -9145,8 +9145,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 40,
+      "SpAttack": 35,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -9166,8 +9166,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 110,
       "Defense": 70,
-      "Sp. Attack": 115,
-      "Sp. Defense": 70,
+      "SpAttack": 115,
+      "SpDefense": 70,
       "Speed": 90
     }
   },
@@ -9186,8 +9186,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 72,
       "Defense": 78,
-      "Sp. Attack": 38,
-      "Sp. Defense": 42,
+      "SpAttack": 38,
+      "SpDefense": 42,
       "Speed": 32
     }
   },
@@ -9206,8 +9206,8 @@ export const pokedex = [{
       "HP": 108,
       "Attack": 112,
       "Defense": 118,
-      "Sp. Attack": 68,
-      "Sp. Defense": 72,
+      "SpAttack": 68,
+      "SpDefense": 72,
       "Speed": 47
     }
   },
@@ -9227,8 +9227,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 50,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 55,
+      "SpAttack": 30,
+      "SpDefense": 55,
       "Speed": 65
     }
   },
@@ -9248,8 +9248,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 90,
       "Defense": 110,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "SpAttack": 60,
+      "SpDefense": 75,
       "Speed": 95
     }
   },
@@ -9269,8 +9269,8 @@ export const pokedex = [{
       "HP": 48,
       "Attack": 61,
       "Defense": 40,
-      "Sp. Attack": 61,
-      "Sp. Defense": 40,
+      "SpAttack": 61,
+      "SpDefense": 40,
       "Speed": 50
     }
   },
@@ -9290,8 +9290,8 @@ export const pokedex = [{
       "HP": 83,
       "Attack": 106,
       "Defense": 65,
-      "Sp. Attack": 86,
-      "Sp. Defense": 65,
+      "SpAttack": 86,
+      "SpDefense": 65,
       "Speed": 85
     }
   },
@@ -9310,8 +9310,8 @@ export const pokedex = [{
       "HP": 74,
       "Attack": 100,
       "Defense": 72,
-      "Sp. Attack": 90,
-      "Sp. Defense": 72,
+      "SpAttack": 90,
+      "SpDefense": 72,
       "Speed": 46
     }
   },
@@ -9330,8 +9330,8 @@ export const pokedex = [{
       "HP": 49,
       "Attack": 49,
       "Defense": 56,
-      "Sp. Attack": 49,
-      "Sp. Defense": 61,
+      "SpAttack": 49,
+      "SpDefense": 61,
       "Speed": 66
     }
   },
@@ -9350,8 +9350,8 @@ export const pokedex = [{
       "HP": 69,
       "Attack": 69,
       "Defense": 76,
-      "Sp. Attack": 69,
-      "Sp. Defense": 86,
+      "SpAttack": 69,
+      "SpDefense": 86,
       "Speed": 91
     }
   },
@@ -9371,8 +9371,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 20,
       "Defense": 50,
-      "Sp. Attack": 60,
-      "Sp. Defense": 120,
+      "SpAttack": 60,
+      "SpDefense": 120,
       "Speed": 50
     }
   },
@@ -9392,8 +9392,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 62,
       "Defense": 50,
-      "Sp. Attack": 62,
-      "Sp. Defense": 60,
+      "SpAttack": 62,
+      "SpDefense": 60,
       "Speed": 40
     }
   },
@@ -9413,8 +9413,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 92,
       "Defense": 75,
-      "Sp. Attack": 92,
-      "Sp. Defense": 85,
+      "SpAttack": 92,
+      "SpDefense": 85,
       "Speed": 60
     }
   },
@@ -9434,8 +9434,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 120,
       "Defense": 65,
-      "Sp. Attack": 45,
-      "Sp. Defense": 85,
+      "SpAttack": 45,
+      "SpDefense": 85,
       "Speed": 125
     }
   },
@@ -9455,8 +9455,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 70,
       "Defense": 115,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "SpAttack": 130,
+      "SpDefense": 90,
       "Speed": 60
     }
   },
@@ -9475,8 +9475,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 85,
       "Defense": 95,
-      "Sp. Attack": 80,
-      "Sp. Defense": 95,
+      "SpAttack": 80,
+      "SpDefense": 95,
       "Speed": 50
     }
   },
@@ -9496,8 +9496,8 @@ export const pokedex = [{
       "HP": 115,
       "Attack": 140,
       "Defense": 130,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 40
     }
   },
@@ -9516,8 +9516,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 125,
-      "Sp. Attack": 110,
-      "Sp. Defense": 50,
+      "SpAttack": 110,
+      "SpDefense": 50,
       "Speed": 50
     }
   },
@@ -9536,8 +9536,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 123,
       "Defense": 67,
-      "Sp. Attack": 95,
-      "Sp. Defense": 85,
+      "SpAttack": 95,
+      "SpDefense": 85,
       "Speed": 95
     }
   },
@@ -9556,8 +9556,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 95,
       "Defense": 67,
-      "Sp. Attack": 125,
-      "Sp. Defense": 95,
+      "SpAttack": 125,
+      "SpDefense": 95,
       "Speed": 83
     }
   },
@@ -9577,8 +9577,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 50,
       "Defense": 95,
-      "Sp. Attack": 120,
-      "Sp. Defense": 115,
+      "SpAttack": 120,
+      "SpDefense": 115,
       "Speed": 80
     }
   },
@@ -9598,8 +9598,8 @@ export const pokedex = [{
       "HP": 86,
       "Attack": 76,
       "Defense": 86,
-      "Sp. Attack": 116,
-      "Sp. Defense": 56,
+      "SpAttack": 116,
+      "SpDefense": 56,
       "Speed": 95
     }
   },
@@ -9618,8 +9618,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 110,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 65,
+      "SpAttack": 60,
+      "SpDefense": 65,
       "Speed": 95
     }
   },
@@ -9638,8 +9638,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 60,
       "Defense": 110,
-      "Sp. Attack": 130,
-      "Sp. Defense": 95,
+      "SpAttack": 130,
+      "SpDefense": 95,
       "Speed": 65
     }
   },
@@ -9659,8 +9659,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 95,
       "Defense": 125,
-      "Sp. Attack": 45,
-      "Sp. Defense": 75,
+      "SpAttack": 45,
+      "SpDefense": 75,
       "Speed": 95
     }
   },
@@ -9680,8 +9680,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 60,
+      "SpAttack": 70,
+      "SpDefense": 60,
       "Speed": 80
     }
   },
@@ -9700,8 +9700,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 80,
       "Defense": 70,
-      "Sp. Attack": 135,
-      "Sp. Defense": 75,
+      "SpAttack": 135,
+      "SpDefense": 75,
       "Speed": 90
     }
   },
@@ -9721,8 +9721,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 125,
       "Defense": 65,
-      "Sp. Attack": 65,
-      "Sp. Defense": 115,
+      "SpAttack": 65,
+      "SpDefense": 115,
       "Speed": 80
     }
   },
@@ -9742,8 +9742,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 55,
       "Defense": 145,
-      "Sp. Attack": 75,
-      "Sp. Defense": 150,
+      "SpAttack": 75,
+      "SpDefense": 150,
       "Speed": 40
     }
   },
@@ -9762,8 +9762,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 100,
       "Defense": 135,
-      "Sp. Attack": 65,
-      "Sp. Defense": 135,
+      "SpAttack": 65,
+      "SpDefense": 135,
       "Speed": 45
     }
   },
@@ -9783,8 +9783,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 80,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 70,
+      "SpAttack": 80,
+      "SpDefense": 70,
       "Speed": 110
     }
   },
@@ -9804,8 +9804,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 77,
-      "Sp. Attack": 95,
-      "Sp. Defense": 77,
+      "SpAttack": 95,
+      "SpDefense": 77,
       "Speed": 91
     }
   },
@@ -9824,8 +9824,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 75,
       "Defense": 130,
-      "Sp. Attack": 75,
-      "Sp. Defense": 130,
+      "SpAttack": 75,
+      "SpDefense": 130,
       "Speed": 95
     }
   },
@@ -9844,8 +9844,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 105,
       "Defense": 105,
-      "Sp. Attack": 105,
-      "Sp. Defense": 105,
+      "SpAttack": 105,
+      "SpDefense": 105,
       "Speed": 80
     }
   },
@@ -9864,8 +9864,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 125,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 70,
+      "SpAttack": 125,
+      "SpDefense": 70,
       "Speed": 115
     }
   },
@@ -9885,8 +9885,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 150,
-      "Sp. Defense": 100,
+      "SpAttack": 150,
+      "SpDefense": 100,
       "Speed": 90
     }
   },
@@ -9906,8 +9906,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 120,
       "Defense": 100,
-      "Sp. Attack": 150,
-      "Sp. Defense": 120,
+      "SpAttack": 150,
+      "SpDefense": 120,
       "Speed": 100
     }
   },
@@ -9927,8 +9927,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 90,
       "Defense": 106,
-      "Sp. Attack": 130,
-      "Sp. Defense": 106,
+      "SpAttack": 130,
+      "SpDefense": 106,
       "Speed": 77
     }
   },
@@ -9947,8 +9947,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 160,
       "Defense": 110,
-      "Sp. Attack": 80,
-      "Sp. Defense": 110,
+      "SpAttack": 80,
+      "SpDefense": 110,
       "Speed": 100
     }
   },
@@ -9968,8 +9968,8 @@ export const pokedex = [{
       "HP": 150,
       "Attack": 100,
       "Defense": 120,
-      "Sp. Attack": 100,
-      "Sp. Defense": 120,
+      "SpAttack": 100,
+      "SpDefense": 120,
       "Speed": 90
     }
   },
@@ -9988,8 +9988,8 @@ export const pokedex = [{
       "HP": 120,
       "Attack": 70,
       "Defense": 120,
-      "Sp. Attack": 75,
-      "Sp. Defense": 130,
+      "SpAttack": 75,
+      "SpDefense": 130,
       "Speed": 85
     }
   },
@@ -10008,8 +10008,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 80
     }
   },
@@ -10028,8 +10028,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -10048,8 +10048,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 90,
       "Defense": 90,
-      "Sp. Attack": 135,
-      "Sp. Defense": 90,
+      "SpAttack": 135,
+      "SpDefense": 90,
       "Speed": 125
     }
   },
@@ -10068,8 +10068,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -10088,8 +10088,8 @@ export const pokedex = [{
       "HP": 120,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 120,
-      "Sp. Defense": 120,
+      "SpAttack": 120,
+      "SpDefense": 120,
       "Speed": 120
     }
   },
@@ -10109,8 +10109,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 100
     }
   },
@@ -10129,8 +10129,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 45,
       "Defense": 55,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 63
     }
   },
@@ -10149,8 +10149,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "SpAttack": 60,
+      "SpDefense": 75,
       "Speed": 83
     }
   },
@@ -10169,8 +10169,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 75,
       "Defense": 95,
-      "Sp. Attack": 75,
-      "Sp. Defense": 95,
+      "SpAttack": 75,
+      "SpDefense": 95,
       "Speed": 113
     }
   },
@@ -10189,8 +10189,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 63,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 45
     }
   },
@@ -10210,8 +10210,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 93,
       "Defense": 55,
-      "Sp. Attack": 70,
-      "Sp. Defense": 55,
+      "SpAttack": 70,
+      "SpDefense": 55,
       "Speed": 55
     }
   },
@@ -10231,8 +10231,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 123,
       "Defense": 65,
-      "Sp. Attack": 100,
-      "Sp. Defense": 65,
+      "SpAttack": 100,
+      "SpDefense": 65,
       "Speed": 65
     }
   },
@@ -10251,8 +10251,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 63,
-      "Sp. Defense": 45,
+      "SpAttack": 63,
+      "SpDefense": 45,
       "Speed": 45
     }
   },
@@ -10271,8 +10271,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 83,
-      "Sp. Defense": 60,
+      "SpAttack": 83,
+      "SpDefense": 60,
       "Speed": 60
     }
   },
@@ -10291,8 +10291,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 100,
       "Defense": 85,
-      "Sp. Attack": 108,
-      "Sp. Defense": 70,
+      "SpAttack": 108,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -10311,8 +10311,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 55,
       "Defense": 39,
-      "Sp. Attack": 35,
-      "Sp. Defense": 39,
+      "SpAttack": 35,
+      "SpDefense": 39,
       "Speed": 42
     }
   },
@@ -10331,8 +10331,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 69,
-      "Sp. Attack": 60,
-      "Sp. Defense": 69,
+      "SpAttack": 60,
+      "SpDefense": 69,
       "Speed": 77
     }
   },
@@ -10351,8 +10351,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 60,
       "Defense": 45,
-      "Sp. Attack": 25,
-      "Sp. Defense": 45,
+      "SpAttack": 25,
+      "SpDefense": 45,
       "Speed": 55
     }
   },
@@ -10371,8 +10371,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 35,
-      "Sp. Defense": 65,
+      "SpAttack": 35,
+      "SpDefense": 65,
       "Speed": 60
     }
   },
@@ -10391,8 +10391,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 110,
       "Defense": 90,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "SpAttack": 45,
+      "SpDefense": 90,
       "Speed": 80
     }
   },
@@ -10411,8 +10411,8 @@ export const pokedex = [{
       "HP": 41,
       "Attack": 50,
       "Defense": 37,
-      "Sp. Attack": 50,
-      "Sp. Defense": 37,
+      "SpAttack": 50,
+      "SpDefense": 37,
       "Speed": 66
     }
   },
@@ -10431,8 +10431,8 @@ export const pokedex = [{
       "HP": 64,
       "Attack": 88,
       "Defense": 50,
-      "Sp. Attack": 88,
-      "Sp. Defense": 50,
+      "SpAttack": 88,
+      "SpDefense": 50,
       "Speed": 106
     }
   },
@@ -10451,8 +10451,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "SpAttack": 53,
+      "SpDefense": 48,
       "Speed": 64
     }
   },
@@ -10471,8 +10471,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "SpAttack": 98,
+      "SpDefense": 63,
       "Speed": 101
     }
   },
@@ -10491,8 +10491,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "SpAttack": 53,
+      "SpDefense": 48,
       "Speed": 64
     }
   },
@@ -10511,8 +10511,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "SpAttack": 98,
+      "SpDefense": 63,
       "Speed": 101
     }
   },
@@ -10531,8 +10531,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "SpAttack": 53,
+      "SpDefense": 48,
       "Speed": 64
     }
   },
@@ -10551,8 +10551,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "SpAttack": 98,
+      "SpDefense": 63,
       "Speed": 101
     }
   },
@@ -10571,8 +10571,8 @@ export const pokedex = [{
       "HP": 76,
       "Attack": 25,
       "Defense": 45,
-      "Sp. Attack": 67,
-      "Sp. Defense": 55,
+      "SpAttack": 67,
+      "SpDefense": 55,
       "Speed": 24
     }
   },
@@ -10591,8 +10591,8 @@ export const pokedex = [{
       "HP": 116,
       "Attack": 55,
       "Defense": 85,
-      "Sp. Attack": 107,
-      "Sp. Defense": 95,
+      "SpAttack": 107,
+      "SpDefense": 95,
       "Speed": 29
     }
   },
@@ -10612,8 +10612,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 55,
       "Defense": 50,
-      "Sp. Attack": 36,
-      "Sp. Defense": 30,
+      "SpAttack": 36,
+      "SpDefense": 30,
       "Speed": 43
     }
   },
@@ -10633,8 +10633,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 77,
       "Defense": 62,
-      "Sp. Attack": 50,
-      "Sp. Defense": 42,
+      "SpAttack": 50,
+      "SpDefense": 42,
       "Speed": 65
     }
   },
@@ -10654,8 +10654,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 115,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 93
     }
   },
@@ -10674,8 +10674,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 60,
       "Defense": 32,
-      "Sp. Attack": 50,
-      "Sp. Defense": 32,
+      "SpAttack": 50,
+      "SpDefense": 32,
       "Speed": 76
     }
   },
@@ -10694,8 +10694,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 100,
       "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 63,
+      "SpAttack": 80,
+      "SpDefense": 63,
       "Speed": 116
     }
   },
@@ -10714,8 +10714,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 15
     }
   },
@@ -10734,8 +10734,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 105,
       "Defense": 105,
-      "Sp. Attack": 50,
-      "Sp. Defense": 40,
+      "SpAttack": 50,
+      "SpDefense": 40,
       "Speed": 20
     }
   },
@@ -10754,8 +10754,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 135,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 80,
+      "SpAttack": 60,
+      "SpDefense": 80,
       "Speed": 25
     }
   },
@@ -10775,8 +10775,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 45,
       "Defense": 43,
-      "Sp. Attack": 55,
-      "Sp. Defense": 43,
+      "SpAttack": 55,
+      "SpDefense": 43,
       "Speed": 72
     }
   },
@@ -10796,8 +10796,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 57,
       "Defense": 55,
-      "Sp. Attack": 77,
-      "Sp. Defense": 55,
+      "SpAttack": 77,
+      "SpDefense": 55,
       "Speed": 114
     }
   },
@@ -10816,8 +10816,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 45,
+      "SpAttack": 30,
+      "SpDefense": 45,
       "Speed": 68
     }
   },
@@ -10837,8 +10837,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 135,
       "Defense": 60,
-      "Sp. Attack": 50,
-      "Sp. Defense": 65,
+      "SpAttack": 50,
+      "SpDefense": 65,
       "Speed": 88
     }
   },
@@ -10857,8 +10857,8 @@ export const pokedex = [{
       "HP": 103,
       "Attack": 60,
       "Defense": 86,
-      "Sp. Attack": 60,
-      "Sp. Defense": 86,
+      "SpAttack": 60,
+      "SpDefense": 86,
       "Speed": 50
     }
   },
@@ -10877,8 +10877,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 80,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 35,
+      "SpAttack": 25,
+      "SpDefense": 35,
       "Speed": 35
     }
   },
@@ -10897,8 +10897,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 105,
       "Defense": 85,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 40
     }
   },
@@ -10917,8 +10917,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 140,
       "Defense": 95,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -10937,8 +10937,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 50,
-      "Sp. Defense": 40,
+      "SpAttack": 50,
+      "SpDefense": 40,
       "Speed": 64
     }
   },
@@ -10958,8 +10958,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 65,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 69
     }
   },
@@ -10979,8 +10979,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 95,
       "Defense": 75,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 74
     }
   },
@@ -10999,8 +10999,8 @@ export const pokedex = [{
       "HP": 120,
       "Attack": 100,
       "Defense": 85,
-      "Sp. Attack": 30,
-      "Sp. Defense": 85,
+      "SpAttack": 30,
+      "SpDefense": 85,
       "Speed": 45
     }
   },
@@ -11019,8 +11019,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 125,
       "Defense": 75,
-      "Sp. Attack": 30,
-      "Sp. Defense": 75,
+      "SpAttack": 30,
+      "SpDefense": 75,
       "Speed": 85
     }
   },
@@ -11040,8 +11040,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 53,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "SpAttack": 40,
+      "SpDefense": 60,
       "Speed": 42
     }
   },
@@ -11061,8 +11061,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 63,
       "Defense": 90,
-      "Sp. Attack": 50,
-      "Sp. Defense": 80,
+      "SpAttack": 50,
+      "SpDefense": 80,
       "Speed": 42
     }
   },
@@ -11082,8 +11082,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 103,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "SpAttack": 70,
+      "SpDefense": 80,
       "Speed": 92
     }
   },
@@ -11103,8 +11103,8 @@ export const pokedex = [{
       "HP": 30,
       "Attack": 45,
       "Defense": 59,
-      "Sp. Attack": 30,
-      "Sp. Defense": 39,
+      "SpAttack": 30,
+      "SpDefense": 39,
       "Speed": 57
     }
   },
@@ -11124,8 +11124,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 99,
-      "Sp. Attack": 40,
-      "Sp. Defense": 79,
+      "SpAttack": 40,
+      "SpDefense": 79,
       "Speed": 47
     }
   },
@@ -11145,8 +11145,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 100,
       "Defense": 89,
-      "Sp. Attack": 55,
-      "Sp. Defense": 69,
+      "SpAttack": 55,
+      "SpDefense": 69,
       "Speed": 112
     }
   },
@@ -11166,8 +11166,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 27,
       "Defense": 60,
-      "Sp. Attack": 37,
-      "Sp. Defense": 50,
+      "SpAttack": 37,
+      "SpDefense": 50,
       "Speed": 66
     }
   },
@@ -11187,8 +11187,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 67,
       "Defense": 85,
-      "Sp. Attack": 77,
-      "Sp. Defense": 75,
+      "SpAttack": 77,
+      "SpDefense": 75,
       "Speed": 116
     }
   },
@@ -11207,8 +11207,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 35,
       "Defense": 50,
-      "Sp. Attack": 70,
-      "Sp. Defense": 50,
+      "SpAttack": 70,
+      "SpDefense": 50,
       "Speed": 30
     }
   },
@@ -11227,8 +11227,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 110,
-      "Sp. Defense": 75,
+      "SpAttack": 110,
+      "SpDefense": 75,
       "Speed": 90
     }
   },
@@ -11247,8 +11247,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 92,
       "Defense": 65,
-      "Sp. Attack": 80,
-      "Sp. Defense": 55,
+      "SpAttack": 80,
+      "SpDefense": 55,
       "Speed": 98
     }
   },
@@ -11268,8 +11268,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 72,
       "Defense": 35,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 65
     }
   },
@@ -11289,8 +11289,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 82,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 74
     }
   },
@@ -11310,8 +11310,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 117,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "SpAttack": 65,
+      "SpDefense": 70,
       "Speed": 92
     }
   },
@@ -11330,8 +11330,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 15,
-      "Sp. Defense": 45,
+      "SpAttack": 15,
+      "SpDefense": 45,
       "Speed": 50
     }
   },
@@ -11350,8 +11350,8 @@ export const pokedex = [{
       "HP": 105,
       "Attack": 140,
       "Defense": 55,
-      "Sp. Attack": 30,
-      "Sp. Defense": 55,
+      "SpAttack": 30,
+      "SpDefense": 55,
       "Speed": 95
     }
   },
@@ -11370,8 +11370,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 86,
       "Defense": 67,
-      "Sp. Attack": 106,
-      "Sp. Defense": 67,
+      "SpAttack": 106,
+      "SpDefense": 67,
       "Speed": 60
     }
   },
@@ -11391,8 +11391,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 65,
       "Defense": 85,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 55
     }
   },
@@ -11412,8 +11412,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 105,
       "Defense": 125,
-      "Sp. Attack": 65,
-      "Sp. Defense": 75,
+      "SpAttack": 65,
+      "SpDefense": 75,
       "Speed": 45
     }
   },
@@ -11433,8 +11433,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 75,
       "Defense": 70,
-      "Sp. Attack": 35,
-      "Sp. Defense": 70,
+      "SpAttack": 35,
+      "SpDefense": 70,
       "Speed": 48
     }
   },
@@ -11454,8 +11454,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 90,
       "Defense": 115,
-      "Sp. Attack": 45,
-      "Sp. Defense": 115,
+      "SpAttack": 45,
+      "SpDefense": 115,
       "Speed": 58
     }
   },
@@ -11475,8 +11475,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 58,
       "Defense": 80,
-      "Sp. Attack": 103,
-      "Sp. Defense": 80,
+      "SpAttack": 103,
+      "SpDefense": 80,
       "Speed": 97
     }
   },
@@ -11495,8 +11495,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 30,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 30
     }
   },
@@ -11515,8 +11515,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 50,
       "Defense": 145,
-      "Sp. Attack": 95,
-      "Sp. Defense": 105,
+      "SpAttack": 95,
+      "SpDefense": 105,
       "Speed": 30
     }
   },
@@ -11536,8 +11536,8 @@ export const pokedex = [{
       "HP": 54,
       "Attack": 78,
       "Defense": 103,
-      "Sp. Attack": 53,
-      "Sp. Defense": 45,
+      "SpAttack": 53,
+      "SpDefense": 45,
       "Speed": 22
     }
   },
@@ -11557,8 +11557,8 @@ export const pokedex = [{
       "HP": 74,
       "Attack": 108,
       "Defense": 133,
-      "Sp. Attack": 83,
-      "Sp. Defense": 65,
+      "SpAttack": 83,
+      "SpDefense": 65,
       "Speed": 32
     }
   },
@@ -11578,8 +11578,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 112,
       "Defense": 45,
-      "Sp. Attack": 74,
-      "Sp. Defense": 45,
+      "SpAttack": 74,
+      "SpDefense": 45,
       "Speed": 70
     }
   },
@@ -11599,8 +11599,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 140,
       "Defense": 65,
-      "Sp. Attack": 112,
-      "Sp. Defense": 65,
+      "SpAttack": 112,
+      "SpDefense": 65,
       "Speed": 110
     }
   },
@@ -11619,8 +11619,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 62,
-      "Sp. Attack": 40,
-      "Sp. Defense": 62,
+      "SpAttack": 40,
+      "SpDefense": 62,
       "Speed": 65
     }
   },
@@ -11639,8 +11639,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 95,
       "Defense": 82,
-      "Sp. Attack": 60,
-      "Sp. Defense": 82,
+      "SpAttack": 60,
+      "SpDefense": 82,
       "Speed": 75
     }
   },
@@ -11659,8 +11659,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 80,
-      "Sp. Defense": 40,
+      "SpAttack": 80,
+      "SpDefense": 40,
       "Speed": 65
     }
   },
@@ -11679,8 +11679,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 105,
       "Defense": 60,
-      "Sp. Attack": 120,
-      "Sp. Defense": 60,
+      "SpAttack": 120,
+      "SpDefense": 60,
       "Speed": 105
     }
   },
@@ -11699,8 +11699,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 75
     }
   },
@@ -11719,8 +11719,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 95,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 60,
+      "SpAttack": 65,
+      "SpDefense": 60,
       "Speed": 115
     }
   },
@@ -11739,8 +11739,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -11759,8 +11759,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "SpAttack": 75,
+      "SpDefense": 85,
       "Speed": 55
     }
   },
@@ -11779,8 +11779,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 55,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 110,
+      "SpAttack": 95,
+      "SpDefense": 110,
       "Speed": 65
     }
   },
@@ -11799,8 +11799,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 30,
       "Defense": 40,
-      "Sp. Attack": 105,
-      "Sp. Defense": 50,
+      "SpAttack": 105,
+      "SpDefense": 50,
       "Speed": 20
     }
   },
@@ -11819,8 +11819,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 125,
-      "Sp. Defense": 60,
+      "SpAttack": 125,
+      "SpDefense": 60,
       "Speed": 30
     }
   },
@@ -11839,8 +11839,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 65,
       "Defense": 75,
-      "Sp. Attack": 125,
-      "Sp. Defense": 85,
+      "SpAttack": 125,
+      "SpDefense": 85,
       "Speed": 30
     }
   },
@@ -11860,8 +11860,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 44,
       "Defense": 50,
-      "Sp. Attack": 44,
-      "Sp. Defense": 50,
+      "SpAttack": 44,
+      "SpDefense": 50,
       "Speed": 55
     }
   },
@@ -11881,8 +11881,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 87,
       "Defense": 63,
-      "Sp. Attack": 87,
-      "Sp. Defense": 63,
+      "SpAttack": 87,
+      "SpDefense": 63,
       "Speed": 98
     }
   },
@@ -11901,8 +11901,8 @@ export const pokedex = [{
       "HP": 36,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 60,
+      "SpAttack": 65,
+      "SpDefense": 60,
       "Speed": 44
     }
   },
@@ -11921,8 +11921,8 @@ export const pokedex = [{
       "HP": 51,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 80,
-      "Sp. Defense": 75,
+      "SpAttack": 80,
+      "SpDefense": 75,
       "Speed": 59
     }
   },
@@ -11941,8 +11941,8 @@ export const pokedex = [{
       "HP": 71,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 110,
-      "Sp. Defense": 95,
+      "SpAttack": 110,
+      "SpDefense": 95,
       "Speed": 79
     }
   },
@@ -11962,8 +11962,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 75
     }
   },
@@ -11983,8 +11983,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 95
     }
   },
@@ -12004,8 +12004,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 60,
+      "SpAttack": 75,
+      "SpDefense": 60,
       "Speed": 103
     }
   },
@@ -12024,8 +12024,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 75,
       "Defense": 45,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "SpAttack": 40,
+      "SpDefense": 45,
       "Speed": 60
     }
   },
@@ -12045,8 +12045,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 135,
       "Defense": 105,
-      "Sp. Attack": 60,
-      "Sp. Defense": 105,
+      "SpAttack": 60,
+      "SpDefense": 105,
       "Speed": 20
     }
   },
@@ -12066,8 +12066,8 @@ export const pokedex = [{
       "HP": 69,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "SpAttack": 55,
+      "SpDefense": 55,
       "Speed": 15
     }
   },
@@ -12087,8 +12087,8 @@ export const pokedex = [{
       "HP": 114,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 80,
+      "SpAttack": 85,
+      "SpDefense": 80,
       "Speed": 30
     }
   },
@@ -12108,8 +12108,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 85,
+      "SpAttack": 65,
+      "SpDefense": 85,
       "Speed": 40
     }
   },
@@ -12129,8 +12129,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
+      "SpAttack": 85,
+      "SpDefense": 105,
       "Speed": 60
     }
   },
@@ -12149,8 +12149,8 @@ export const pokedex = [{
       "HP": 165,
       "Attack": 75,
       "Defense": 80,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "SpAttack": 40,
+      "SpDefense": 45,
       "Speed": 65
     }
   },
@@ -12170,8 +12170,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 47,
       "Defense": 50,
-      "Sp. Attack": 57,
-      "Sp. Defense": 50,
+      "SpAttack": 57,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -12191,8 +12191,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 77,
       "Defense": 60,
-      "Sp. Attack": 97,
-      "Sp. Defense": 60,
+      "SpAttack": 97,
+      "SpDefense": 60,
       "Speed": 108
     }
   },
@@ -12212,8 +12212,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 50,
       "Defense": 91,
-      "Sp. Attack": 24,
-      "Sp. Defense": 86,
+      "SpAttack": 24,
+      "SpDefense": 86,
       "Speed": 10
     }
   },
@@ -12233,8 +12233,8 @@ export const pokedex = [{
       "HP": 74,
       "Attack": 94,
       "Defense": 131,
-      "Sp. Attack": 54,
-      "Sp. Defense": 116,
+      "SpAttack": 54,
+      "SpDefense": 116,
       "Speed": 20
     }
   },
@@ -12253,8 +12253,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 60,
+      "SpAttack": 45,
+      "SpDefense": 60,
       "Speed": 30
     }
   },
@@ -12273,8 +12273,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 70,
-      "Sp. Defense": 85,
+      "SpAttack": 70,
+      "SpDefense": 85,
       "Speed": 50
     }
   },
@@ -12293,8 +12293,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 100,
       "Defense": 115,
-      "Sp. Attack": 70,
-      "Sp. Defense": 85,
+      "SpAttack": 70,
+      "SpDefense": 85,
       "Speed": 90
     }
   },
@@ -12313,8 +12313,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 55,
       "Defense": 40,
-      "Sp. Attack": 45,
-      "Sp. Defense": 40,
+      "SpAttack": 45,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -12333,8 +12333,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 70,
+      "SpAttack": 75,
+      "SpDefense": 70,
       "Speed": 40
     }
   },
@@ -12353,8 +12353,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 115,
       "Defense": 80,
-      "Sp. Attack": 105,
-      "Sp. Defense": 80,
+      "SpAttack": 105,
+      "SpDefense": 80,
       "Speed": 50
     }
   },
@@ -12373,8 +12373,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 85,
-      "Sp. Defense": 55,
+      "SpAttack": 85,
+      "SpDefense": 55,
       "Speed": 30
     }
   },
@@ -12393,8 +12393,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 125,
-      "Sp. Defense": 95,
+      "SpAttack": 125,
+      "SpDefense": 95,
       "Speed": 40
     }
   },
@@ -12414,8 +12414,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 30,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "SpAttack": 65,
+      "SpDefense": 55,
       "Speed": 20
     }
   },
@@ -12435,8 +12435,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 60,
+      "SpAttack": 95,
+      "SpDefense": 60,
       "Speed": 55
     }
   },
@@ -12456,8 +12456,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 55,
       "Defense": 90,
-      "Sp. Attack": 145,
-      "Sp. Defense": 90,
+      "SpAttack": 145,
+      "SpDefense": 90,
       "Speed": 80
     }
   },
@@ -12476,8 +12476,8 @@ export const pokedex = [{
       "HP": 46,
       "Attack": 87,
       "Defense": 60,
-      "Sp. Attack": 30,
-      "Sp. Defense": 40,
+      "SpAttack": 30,
+      "SpDefense": 40,
       "Speed": 57
     }
   },
@@ -12496,8 +12496,8 @@ export const pokedex = [{
       "HP": 66,
       "Attack": 117,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 67
     }
   },
@@ -12516,8 +12516,8 @@ export const pokedex = [{
       "HP": 76,
       "Attack": 147,
       "Defense": 90,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 97
     }
   },
@@ -12536,8 +12536,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "SpAttack": 60,
+      "SpDefense": 40,
       "Speed": 40
     }
   },
@@ -12556,8 +12556,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "SpAttack": 70,
+      "SpDefense": 80,
       "Speed": 50
     }
   },
@@ -12576,8 +12576,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 95,
-      "Sp. Defense": 135,
+      "SpAttack": 95,
+      "SpDefense": 135,
       "Speed": 105
     }
   },
@@ -12596,8 +12596,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 40,
       "Defense": 85,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "SpAttack": 40,
+      "SpDefense": 65,
       "Speed": 25
     }
   },
@@ -12616,8 +12616,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 100,
-      "Sp. Defense": 60,
+      "SpAttack": 100,
+      "SpDefense": 60,
       "Speed": 145
     }
   },
@@ -12637,8 +12637,8 @@ export const pokedex = [{
       "HP": 109,
       "Attack": 66,
       "Defense": 84,
-      "Sp. Attack": 81,
-      "Sp. Defense": 99,
+      "SpAttack": 81,
+      "SpDefense": 99,
       "Speed": 32
     }
   },
@@ -12657,8 +12657,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 50,
+      "SpAttack": 55,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -12677,8 +12677,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 125,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 60,
+      "SpAttack": 95,
+      "SpDefense": 60,
       "Speed": 105
     }
   },
@@ -12697,8 +12697,8 @@ export const pokedex = [{
       "HP": 77,
       "Attack": 120,
       "Defense": 90,
-      "Sp. Attack": 60,
-      "Sp. Defense": 90,
+      "SpAttack": 60,
+      "SpDefense": 90,
       "Speed": 48
     }
   },
@@ -12718,8 +12718,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 74,
       "Defense": 50,
-      "Sp. Attack": 35,
-      "Sp. Defense": 50,
+      "SpAttack": 35,
+      "SpDefense": 50,
       "Speed": 35
     }
   },
@@ -12739,8 +12739,8 @@ export const pokedex = [{
       "HP": 89,
       "Attack": 124,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "SpAttack": 55,
+      "SpDefense": 80,
       "Speed": 55
     }
   },
@@ -12760,8 +12760,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "SpAttack": 40,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -12781,8 +12781,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "SpAttack": 60,
+      "SpDefense": 70,
       "Speed": 70
     }
   },
@@ -12801,8 +12801,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 110,
       "Defense": 95,
-      "Sp. Attack": 40,
-      "Sp. Defense": 95,
+      "SpAttack": 40,
+      "SpDefense": 95,
       "Speed": 55
     }
   },
@@ -12822,8 +12822,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 83,
       "Defense": 50,
-      "Sp. Attack": 37,
-      "Sp. Defense": 50,
+      "SpAttack": 37,
+      "SpDefense": 50,
       "Speed": 60
     }
   },
@@ -12843,8 +12843,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 123,
       "Defense": 75,
-      "Sp. Attack": 57,
-      "Sp. Defense": 75,
+      "SpAttack": 57,
+      "SpDefense": 75,
       "Speed": 80
     }
   },
@@ -12864,8 +12864,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 55,
       "Defense": 75,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "SpAttack": 45,
+      "SpDefense": 65,
       "Speed": 60
     }
   },
@@ -12885,8 +12885,8 @@ export const pokedex = [{
       "HP": 110,
       "Attack": 65,
       "Defense": 105,
-      "Sp. Attack": 55,
-      "Sp. Defense": 95,
+      "SpAttack": 55,
+      "SpDefense": 95,
       "Speed": 80
     }
   },
@@ -12905,8 +12905,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 97,
       "Defense": 66,
-      "Sp. Attack": 105,
-      "Sp. Defense": 66,
+      "SpAttack": 105,
+      "SpDefense": 66,
       "Speed": 65
     }
   },
@@ -12926,8 +12926,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 109,
       "Defense": 112,
-      "Sp. Attack": 48,
-      "Sp. Defense": 48,
+      "SpAttack": 48,
+      "SpDefense": 48,
       "Speed": 109
     }
   },
@@ -12947,8 +12947,8 @@ export const pokedex = [{
       "HP": 52,
       "Attack": 65,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "SpAttack": 45,
+      "SpDefense": 50,
       "Speed": 38
     }
   },
@@ -12968,8 +12968,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "SpAttack": 65,
+      "SpDefense": 70,
       "Speed": 58
     }
   },
@@ -12989,8 +12989,8 @@ export const pokedex = [{
       "HP": 92,
       "Attack": 105,
       "Defense": 90,
-      "Sp. Attack": 125,
-      "Sp. Defense": 90,
+      "SpAttack": 125,
+      "SpDefense": 90,
       "Speed": 98
     }
   },
@@ -13010,8 +13010,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 85,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 55,
+      "SpAttack": 50,
+      "SpDefense": 55,
       "Speed": 60
     }
   },
@@ -13031,8 +13031,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 60,
       "Defense": 65,
-      "Sp. Attack": 135,
-      "Sp. Defense": 105,
+      "SpAttack": 135,
+      "SpDefense": 105,
       "Speed": 100
     }
   },
@@ -13052,8 +13052,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 90,
       "Defense": 129,
-      "Sp. Attack": 90,
-      "Sp. Defense": 72,
+      "SpAttack": 90,
+      "SpDefense": 72,
       "Speed": 108
     }
   },
@@ -13073,8 +13073,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 129,
       "Defense": 90,
-      "Sp. Attack": 72,
-      "Sp. Defense": 90,
+      "SpAttack": 72,
+      "SpDefense": 90,
       "Speed": 108
     }
   },
@@ -13094,8 +13094,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 90,
       "Defense": 72,
-      "Sp. Attack": 90,
-      "Sp. Defense": 129,
+      "SpAttack": 90,
+      "SpDefense": 129,
       "Speed": 108
     }
   },
@@ -13114,8 +13114,8 @@ export const pokedex = [{
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 80,
+      "SpAttack": 125,
+      "SpDefense": 80,
       "Speed": 111
     }
   },
@@ -13135,8 +13135,8 @@ export const pokedex = [{
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 80,
+      "SpAttack": 125,
+      "SpDefense": 80,
       "Speed": 111
     }
   },
@@ -13156,8 +13156,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 120,
       "Defense": 100,
-      "Sp. Attack": 150,
-      "Sp. Defense": 120,
+      "SpAttack": 150,
+      "SpDefense": 120,
       "Speed": 90
     }
   },
@@ -13177,8 +13177,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 150,
       "Defense": 120,
-      "Sp. Attack": 120,
-      "Sp. Defense": 100,
+      "SpAttack": 120,
+      "SpDefense": 100,
       "Speed": 90
     }
   },
@@ -13198,8 +13198,8 @@ export const pokedex = [{
       "HP": 89,
       "Attack": 125,
       "Defense": 90,
-      "Sp. Attack": 115,
-      "Sp. Defense": 80,
+      "SpAttack": 115,
+      "SpDefense": 80,
       "Speed": 101
     }
   },
@@ -13219,8 +13219,8 @@ export const pokedex = [{
       "HP": 125,
       "Attack": 130,
       "Defense": 90,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "SpAttack": 130,
+      "SpDefense": 90,
       "Speed": 95
     }
   },
@@ -13240,8 +13240,8 @@ export const pokedex = [{
       "HP": 91,
       "Attack": 72,
       "Defense": 90,
-      "Sp. Attack": 129,
-      "Sp. Defense": 90,
+      "SpAttack": 129,
+      "SpDefense": 90,
       "Speed": 108
     }
   },
@@ -13261,8 +13261,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 77,
       "Defense": 77,
-      "Sp. Attack": 128,
-      "Sp. Defense": 128,
+      "SpAttack": 128,
+      "SpDefense": 128,
       "Speed": 90
     }
   },
@@ -13282,8 +13282,8 @@ export const pokedex = [{
       "HP": 71,
       "Attack": 120,
       "Defense": 95,
-      "Sp. Attack": 120,
-      "Sp. Defense": 95,
+      "SpAttack": 120,
+      "SpDefense": 95,
       "Speed": 99
     }
   },
@@ -13302,8 +13302,8 @@ export const pokedex = [{
       "HP": 56,
       "Attack": 61,
       "Defense": 65,
-      "Sp. Attack": 48,
-      "Sp. Defense": 45,
+      "SpAttack": 48,
+      "SpDefense": 45,
       "Speed": 38
     }
   },
@@ -13322,8 +13322,8 @@ export const pokedex = [{
       "HP": 61,
       "Attack": 78,
       "Defense": 95,
-      "Sp. Attack": 56,
-      "Sp. Defense": 58,
+      "SpAttack": 56,
+      "SpDefense": 58,
       "Speed": 57
     }
   },
@@ -13343,8 +13343,8 @@ export const pokedex = [{
       "HP": 88,
       "Attack": 107,
       "Defense": 122,
-      "Sp. Attack": 74,
-      "Sp. Defense": 75,
+      "SpAttack": 74,
+      "SpDefense": 75,
       "Speed": 64
     }
   },
@@ -13363,8 +13363,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 62,
-      "Sp. Defense": 60,
+      "SpAttack": 62,
+      "SpDefense": 60,
       "Speed": 60
     }
   },
@@ -13383,8 +13383,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 59,
       "Defense": 58,
-      "Sp. Attack": 90,
-      "Sp. Defense": 70,
+      "SpAttack": 90,
+      "SpDefense": 70,
       "Speed": 73
     }
   },
@@ -13404,8 +13404,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 69,
       "Defense": 72,
-      "Sp. Attack": 114,
-      "Sp. Defense": 100,
+      "SpAttack": 114,
+      "SpDefense": 100,
       "Speed": 104
     }
   },
@@ -13424,8 +13424,8 @@ export const pokedex = [{
       "HP": 41,
       "Attack": 56,
       "Defense": 40,
-      "Sp. Attack": 62,
-      "Sp. Defense": 44,
+      "SpAttack": 62,
+      "SpDefense": 44,
       "Speed": 71
     }
   },
@@ -13444,8 +13444,8 @@ export const pokedex = [{
       "HP": 54,
       "Attack": 63,
       "Defense": 52,
-      "Sp. Attack": 83,
-      "Sp. Defense": 56,
+      "SpAttack": 83,
+      "SpDefense": 56,
       "Speed": 97
     }
   },
@@ -13465,8 +13465,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 95,
       "Defense": 67,
-      "Sp. Attack": 103,
-      "Sp. Defense": 71,
+      "SpAttack": 103,
+      "SpDefense": 71,
       "Speed": 122
     }
   },
@@ -13485,8 +13485,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 36,
       "Defense": 38,
-      "Sp. Attack": 32,
-      "Sp. Defense": 36,
+      "SpAttack": 32,
+      "SpDefense": 36,
       "Speed": 57
     }
   },
@@ -13506,8 +13506,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 56,
       "Defense": 77,
-      "Sp. Attack": 50,
-      "Sp. Defense": 77,
+      "SpAttack": 50,
+      "SpDefense": 77,
       "Speed": 78
     }
   },
@@ -13527,8 +13527,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 50,
       "Defense": 43,
-      "Sp. Attack": 40,
-      "Sp. Defense": 38,
+      "SpAttack": 40,
+      "SpDefense": 38,
       "Speed": 62
     }
   },
@@ -13548,8 +13548,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 73,
       "Defense": 55,
-      "Sp. Attack": 56,
-      "Sp. Defense": 52,
+      "SpAttack": 56,
+      "SpDefense": 52,
       "Speed": 84
     }
   },
@@ -13569,8 +13569,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 81,
       "Defense": 71,
-      "Sp. Attack": 74,
-      "Sp. Defense": 69,
+      "SpAttack": 74,
+      "SpDefense": 69,
       "Speed": 126
     }
   },
@@ -13589,8 +13589,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 27,
-      "Sp. Defense": 25,
+      "SpAttack": 27,
+      "SpDefense": 25,
       "Speed": 35
     }
   },
@@ -13609,8 +13609,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 22,
       "Defense": 60,
-      "Sp. Attack": 27,
-      "Sp. Defense": 30,
+      "SpAttack": 27,
+      "SpDefense": 30,
       "Speed": 29
     }
   },
@@ -13630,8 +13630,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 52,
       "Defense": 50,
-      "Sp. Attack": 90,
-      "Sp. Defense": 50,
+      "SpAttack": 90,
+      "SpDefense": 50,
       "Speed": 89
     }
   },
@@ -13651,8 +13651,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 50,
       "Defense": 58,
-      "Sp. Attack": 73,
-      "Sp. Defense": 54,
+      "SpAttack": 73,
+      "SpDefense": 54,
       "Speed": 72
     }
   },
@@ -13672,8 +13672,8 @@ export const pokedex = [{
       "HP": 86,
       "Attack": 68,
       "Defense": 72,
-      "Sp. Attack": 109,
-      "Sp. Defense": 66,
+      "SpAttack": 109,
+      "SpDefense": 66,
       "Speed": 106
     }
   },
@@ -13692,8 +13692,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 38,
       "Defense": 39,
-      "Sp. Attack": 61,
-      "Sp. Defense": 79,
+      "SpAttack": 61,
+      "SpDefense": 79,
       "Speed": 42
     }
   },
@@ -13712,8 +13712,8 @@ export const pokedex = [{
       "HP": 54,
       "Attack": 45,
       "Defense": 47,
-      "Sp. Attack": 75,
-      "Sp. Defense": 98,
+      "SpAttack": 75,
+      "SpDefense": 98,
       "Speed": 52
     }
   },
@@ -13732,8 +13732,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 65,
       "Defense": 68,
-      "Sp. Attack": 112,
-      "Sp. Defense": 154,
+      "SpAttack": 112,
+      "SpDefense": 154,
       "Speed": 75
     }
   },
@@ -13752,8 +13752,8 @@ export const pokedex = [{
       "HP": 66,
       "Attack": 65,
       "Defense": 48,
-      "Sp. Attack": 62,
-      "Sp. Defense": 57,
+      "SpAttack": 62,
+      "SpDefense": 57,
       "Speed": 52
     }
   },
@@ -13772,8 +13772,8 @@ export const pokedex = [{
       "HP": 123,
       "Attack": 100,
       "Defense": 62,
-      "Sp. Attack": 97,
-      "Sp. Defense": 81,
+      "SpAttack": 97,
+      "SpDefense": 81,
       "Speed": 68
     }
   },
@@ -13792,8 +13792,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 82,
       "Defense": 62,
-      "Sp. Attack": 46,
-      "Sp. Defense": 48,
+      "SpAttack": 46,
+      "SpDefense": 48,
       "Speed": 43
     }
   },
@@ -13813,8 +13813,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 124,
       "Defense": 78,
-      "Sp. Attack": 69,
-      "Sp. Defense": 71,
+      "SpAttack": 69,
+      "SpDefense": 71,
       "Speed": 58
     }
   },
@@ -13833,8 +13833,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 80,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 90,
+      "SpAttack": 65,
+      "SpDefense": 90,
       "Speed": 102
     }
   },
@@ -13853,8 +13853,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 48,
       "Defense": 54,
-      "Sp. Attack": 63,
-      "Sp. Defense": 60,
+      "SpAttack": 63,
+      "SpDefense": 60,
       "Speed": 68
     }
   },
@@ -13873,8 +13873,8 @@ export const pokedex = [{
       "HP": 74,
       "Attack": 48,
       "Defense": 76,
-      "Sp. Attack": 83,
-      "Sp. Defense": 81,
+      "SpAttack": 83,
+      "SpDefense": 81,
       "Speed": 104
     }
   },
@@ -13894,8 +13894,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 80,
       "Defense": 100,
-      "Sp. Attack": 35,
-      "Sp. Defense": 37,
+      "SpAttack": 35,
+      "SpDefense": 37,
       "Speed": 28
     }
   },
@@ -13915,8 +13915,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 110,
       "Defense": 150,
-      "Sp. Attack": 45,
-      "Sp. Defense": 49,
+      "SpAttack": 45,
+      "SpDefense": 49,
       "Speed": 35
     }
   },
@@ -13936,8 +13936,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 50,
       "Defense": 150,
-      "Sp. Attack": 50,
-      "Sp. Defense": 150,
+      "SpAttack": 50,
+      "SpDefense": 150,
       "Speed": 60
     }
   },
@@ -13956,8 +13956,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 52,
       "Defense": 60,
-      "Sp. Attack": 63,
-      "Sp. Defense": 65,
+      "SpAttack": 63,
+      "SpDefense": 65,
       "Speed": 23
     }
   },
@@ -13976,8 +13976,8 @@ export const pokedex = [{
       "HP": 101,
       "Attack": 72,
       "Defense": 72,
-      "Sp. Attack": 99,
-      "Sp. Defense": 89,
+      "SpAttack": 99,
+      "SpDefense": 89,
       "Speed": 29
     }
   },
@@ -13996,8 +13996,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 48,
       "Defense": 66,
-      "Sp. Attack": 59,
-      "Sp. Defense": 57,
+      "SpAttack": 59,
+      "SpDefense": 57,
       "Speed": 49
     }
   },
@@ -14016,8 +14016,8 @@ export const pokedex = [{
       "HP": 82,
       "Attack": 80,
       "Defense": 86,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "SpAttack": 85,
+      "SpDefense": 75,
       "Speed": 72
     }
   },
@@ -14037,8 +14037,8 @@ export const pokedex = [{
       "HP": 53,
       "Attack": 54,
       "Defense": 53,
-      "Sp. Attack": 37,
-      "Sp. Defense": 46,
+      "SpAttack": 37,
+      "SpDefense": 46,
       "Speed": 45
     }
   },
@@ -14058,8 +14058,8 @@ export const pokedex = [{
       "HP": 86,
       "Attack": 92,
       "Defense": 88,
-      "Sp. Attack": 68,
-      "Sp. Defense": 75,
+      "SpAttack": 68,
+      "SpDefense": 75,
       "Speed": 73
     }
   },
@@ -14079,8 +14079,8 @@ export const pokedex = [{
       "HP": 42,
       "Attack": 52,
       "Defense": 67,
-      "Sp. Attack": 39,
-      "Sp. Defense": 56,
+      "SpAttack": 39,
+      "SpDefense": 56,
       "Speed": 50
     }
   },
@@ -14100,8 +14100,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 105,
       "Defense": 115,
-      "Sp. Attack": 54,
-      "Sp. Defense": 86,
+      "SpAttack": 54,
+      "SpDefense": 86,
       "Speed": 68
     }
   },
@@ -14121,8 +14121,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "SpAttack": 60,
+      "SpDefense": 60,
       "Speed": 30
     }
   },
@@ -14142,8 +14142,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 75,
       "Defense": 90,
-      "Sp. Attack": 97,
-      "Sp. Defense": 123,
+      "SpAttack": 97,
+      "SpDefense": 123,
       "Speed": 44
     }
   },
@@ -14162,8 +14162,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
-      "Sp. Attack": 58,
-      "Sp. Defense": 63,
+      "SpAttack": 58,
+      "SpDefense": 63,
       "Speed": 44
     }
   },
@@ -14182,8 +14182,8 @@ export const pokedex = [{
       "HP": 71,
       "Attack": 73,
       "Defense": 88,
-      "Sp. Attack": 120,
-      "Sp. Defense": 89,
+      "SpAttack": 120,
+      "SpDefense": 89,
       "Speed": 59
     }
   },
@@ -14203,8 +14203,8 @@ export const pokedex = [{
       "HP": 44,
       "Attack": 38,
       "Defense": 33,
-      "Sp. Attack": 61,
-      "Sp. Defense": 43,
+      "SpAttack": 61,
+      "SpDefense": 43,
       "Speed": 70
     }
   },
@@ -14224,8 +14224,8 @@ export const pokedex = [{
       "HP": 62,
       "Attack": 55,
       "Defense": 52,
-      "Sp. Attack": 109,
-      "Sp. Defense": 94,
+      "SpAttack": 109,
+      "SpDefense": 94,
       "Speed": 109
     }
   },
@@ -14245,8 +14245,8 @@ export const pokedex = [{
       "HP": 58,
       "Attack": 89,
       "Defense": 77,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 48
     }
   },
@@ -14266,8 +14266,8 @@ export const pokedex = [{
       "HP": 82,
       "Attack": 121,
       "Defense": 119,
-      "Sp. Attack": 69,
-      "Sp. Defense": 59,
+      "SpAttack": 69,
+      "SpDefense": 59,
       "Speed": 71
     }
   },
@@ -14287,8 +14287,8 @@ export const pokedex = [{
       "HP": 77,
       "Attack": 59,
       "Defense": 50,
-      "Sp. Attack": 67,
-      "Sp. Defense": 63,
+      "SpAttack": 67,
+      "SpDefense": 63,
       "Speed": 46
     }
   },
@@ -14308,8 +14308,8 @@ export const pokedex = [{
       "HP": 123,
       "Attack": 77,
       "Defense": 72,
-      "Sp. Attack": 99,
-      "Sp. Defense": 92,
+      "SpAttack": 99,
+      "SpDefense": 92,
       "Speed": 58
     }
   },
@@ -14328,8 +14328,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 110,
-      "Sp. Defense": 130,
+      "SpAttack": 110,
+      "SpDefense": 130,
       "Speed": 60
     }
   },
@@ -14349,8 +14349,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 92,
       "Defense": 75,
-      "Sp. Attack": 74,
-      "Sp. Defense": 63,
+      "SpAttack": 74,
+      "SpDefense": 63,
       "Speed": 118
     }
   },
@@ -14370,8 +14370,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 58,
       "Defense": 57,
-      "Sp. Attack": 81,
-      "Sp. Defense": 67,
+      "SpAttack": 81,
+      "SpDefense": 67,
       "Speed": 101
     }
   },
@@ -14391,8 +14391,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 50,
       "Defense": 150,
-      "Sp. Attack": 50,
-      "Sp. Defense": 150,
+      "SpAttack": 50,
+      "SpDefense": 150,
       "Speed": 50
     }
   },
@@ -14411,8 +14411,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 50,
       "Defense": 35,
-      "Sp. Attack": 55,
-      "Sp. Defense": 75,
+      "SpAttack": 55,
+      "SpDefense": 75,
       "Speed": 40
     }
   },
@@ -14431,8 +14431,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 75,
       "Defense": 53,
-      "Sp. Attack": 83,
-      "Sp. Defense": 113,
+      "SpAttack": 83,
+      "SpDefense": 113,
       "Speed": 60
     }
   },
@@ -14451,8 +14451,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 110,
-      "Sp. Defense": 150,
+      "SpAttack": 110,
+      "SpDefense": 150,
       "Speed": 80
     }
   },
@@ -14472,8 +14472,8 @@ export const pokedex = [{
       "HP": 57,
       "Attack": 80,
       "Defense": 91,
-      "Sp. Attack": 80,
-      "Sp. Defense": 87,
+      "SpAttack": 80,
+      "SpDefense": 87,
       "Speed": 75
     }
   },
@@ -14493,8 +14493,8 @@ export const pokedex = [{
       "HP": 43,
       "Attack": 70,
       "Defense": 48,
-      "Sp. Attack": 50,
-      "Sp. Defense": 60,
+      "SpAttack": 50,
+      "SpDefense": 60,
       "Speed": 38
     }
   },
@@ -14514,8 +14514,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 110,
       "Defense": 76,
-      "Sp. Attack": 65,
-      "Sp. Defense": 82,
+      "SpAttack": 65,
+      "SpDefense": 82,
       "Speed": 56
     }
   },
@@ -14535,8 +14535,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 66,
       "Defense": 70,
-      "Sp. Attack": 44,
-      "Sp. Defense": 55,
+      "SpAttack": 44,
+      "SpDefense": 55,
       "Speed": 41
     }
   },
@@ -14556,8 +14556,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 100,
       "Defense": 122,
-      "Sp. Attack": 58,
-      "Sp. Defense": 75,
+      "SpAttack": 58,
+      "SpDefense": 75,
       "Speed": 54
     }
   },
@@ -14576,8 +14576,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 69,
       "Defense": 85,
-      "Sp. Attack": 32,
-      "Sp. Defense": 35,
+      "SpAttack": 32,
+      "SpDefense": 35,
       "Speed": 28
     }
   },
@@ -14596,8 +14596,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 117,
       "Defense": 184,
-      "Sp. Attack": 44,
-      "Sp. Defense": 46,
+      "SpAttack": 44,
+      "SpDefense": 46,
       "Speed": 28
     }
   },
@@ -14617,8 +14617,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 45,
-      "Sp. Defense": 40,
+      "SpAttack": 45,
+      "SpDefense": 40,
       "Speed": 55
     }
   },
@@ -14638,8 +14638,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 70,
       "Defense": 80,
-      "Sp. Attack": 97,
-      "Sp. Defense": 80,
+      "SpAttack": 97,
+      "SpDefense": 80,
       "Speed": 123
     }
   },
@@ -14658,8 +14658,8 @@ export const pokedex = [{
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
-      "Sp. Attack": 131,
-      "Sp. Defense": 98,
+      "SpAttack": 131,
+      "SpDefense": 98,
       "Speed": 99
     }
   },
@@ -14679,8 +14679,8 @@ export const pokedex = [{
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
-      "Sp. Attack": 131,
-      "Sp. Defense": 98,
+      "SpAttack": 131,
+      "SpDefense": 98,
       "Speed": 99
     }
   },
@@ -14700,8 +14700,8 @@ export const pokedex = [{
       "HP": 108,
       "Attack": 100,
       "Defense": 121,
-      "Sp. Attack": 81,
-      "Sp. Defense": 95,
+      "SpAttack": 81,
+      "SpDefense": 95,
       "Speed": 95
     }
   },
@@ -14721,8 +14721,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 100,
       "Defense": 150,
-      "Sp. Attack": 100,
-      "Sp. Defense": 150,
+      "SpAttack": 100,
+      "SpDefense": 150,
       "Speed": 50
     }
   },
@@ -14742,8 +14742,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 110,
       "Defense": 60,
-      "Sp. Attack": 150,
-      "Sp. Defense": 130,
+      "SpAttack": 150,
+      "SpDefense": 130,
       "Speed": 70
     }
   },
@@ -14763,8 +14763,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 110,
       "Defense": 120,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "SpAttack": 130,
+      "SpDefense": 90,
       "Speed": 70
     }
   },
@@ -14784,8 +14784,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 42
     }
   },
@@ -14805,8 +14805,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 52
     }
   },
@@ -14826,8 +14826,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 107,
       "Defense": 75,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 70
     }
   },
@@ -14846,8 +14846,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "SpAttack": 60,
+      "SpDefense": 40,
       "Speed": 70
     }
   },
@@ -14866,8 +14866,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 80,
-      "Sp. Defense": 50,
+      "SpAttack": 80,
+      "SpDefense": 50,
       "Speed": 90
     }
   },
@@ -14887,8 +14887,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 115,
       "Defense": 90,
-      "Sp. Attack": 80,
-      "Sp. Defense": 90,
+      "SpAttack": 80,
+      "SpDefense": 90,
       "Speed": 60
     }
   },
@@ -14907,8 +14907,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 54,
       "Defense": 54,
-      "Sp. Attack": 66,
-      "Sp. Defense": 56,
+      "SpAttack": 66,
+      "SpDefense": 56,
       "Speed": 40
     }
   },
@@ -14927,8 +14927,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 69,
       "Defense": 69,
-      "Sp. Attack": 91,
-      "Sp. Defense": 81,
+      "SpAttack": 91,
+      "SpDefense": 81,
       "Speed": 50
     }
   },
@@ -14948,8 +14948,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 74,
       "Defense": 74,
-      "Sp. Attack": 126,
-      "Sp. Defense": 116,
+      "SpAttack": 126,
+      "SpDefense": 116,
       "Speed": 60
     }
   },
@@ -14969,8 +14969,8 @@ export const pokedex = [{
       "HP": 35,
       "Attack": 75,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 65
     }
   },
@@ -14990,8 +14990,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "SpAttack": 40,
+      "SpDefense": 50,
       "Speed": 75
     }
   },
@@ -15011,8 +15011,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 120,
       "Defense": 75,
-      "Sp. Attack": 75,
-      "Sp. Defense": 75,
+      "SpAttack": 75,
+      "SpDefense": 75,
       "Speed": 60
     }
   },
@@ -15031,8 +15031,8 @@ export const pokedex = [{
       "HP": 48,
       "Attack": 70,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "SpAttack": 30,
+      "SpDefense": 30,
       "Speed": 45
     }
   },
@@ -15051,8 +15051,8 @@ export const pokedex = [{
       "HP": 88,
       "Attack": 110,
       "Defense": 60,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "SpAttack": 55,
+      "SpDefense": 60,
       "Speed": 45
     }
   },
@@ -15071,8 +15071,8 @@ export const pokedex = [{
       "HP": 47,
       "Attack": 62,
       "Defense": 45,
-      "Sp. Attack": 55,
-      "Sp. Defense": 45,
+      "SpAttack": 55,
+      "SpDefense": 45,
       "Speed": 46
     }
   },
@@ -15092,8 +15092,8 @@ export const pokedex = [{
       "HP": 57,
       "Attack": 82,
       "Defense": 95,
-      "Sp. Attack": 55,
-      "Sp. Defense": 75,
+      "SpAttack": 55,
+      "SpDefense": 75,
       "Speed": 36
     }
   },
@@ -15113,8 +15113,8 @@ export const pokedex = [{
       "HP": 77,
       "Attack": 70,
       "Defense": 90,
-      "Sp. Attack": 145,
-      "Sp. Defense": 75,
+      "SpAttack": 145,
+      "SpDefense": 75,
       "Speed": 43
     }
   },
@@ -15133,8 +15133,8 @@ export const pokedex = [{
       "HP": 47,
       "Attack": 82,
       "Defense": 57,
-      "Sp. Attack": 42,
-      "Sp. Defense": 47,
+      "SpAttack": 42,
+      "SpDefense": 47,
       "Speed": 63
     }
   },
@@ -15154,8 +15154,8 @@ export const pokedex = [{
       "HP": 97,
       "Attack": 132,
       "Defense": 77,
-      "Sp. Attack": 62,
-      "Sp. Defense": 67,
+      "SpAttack": 62,
+      "SpDefense": 67,
       "Speed": 43
     }
   },
@@ -15175,8 +15175,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 98,
-      "Sp. Defense": 70,
+      "SpAttack": 98,
+      "SpDefense": 70,
       "Speed": 93
     }
   },
@@ -15196,8 +15196,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 55,
-      "Sp. Defense": 40,
+      "SpAttack": 55,
+      "SpDefense": 40,
       "Speed": 84
     }
   },
@@ -15217,8 +15217,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 55,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "SpAttack": 95,
+      "SpDefense": 70,
       "Speed": 124
     }
   },
@@ -15237,8 +15237,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 40,
+      "SpAttack": 30,
+      "SpDefense": 40,
       "Speed": 60
     }
   },
@@ -15257,8 +15257,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "SpAttack": 55,
+      "SpDefense": 65,
       "Speed": 112
     }
   },
@@ -15277,8 +15277,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 20,
       "Defense": 20,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 40
     }
   },
@@ -15298,8 +15298,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
-      "Sp. Attack": 43,
-      "Sp. Defense": 52,
+      "SpAttack": 43,
+      "SpDefense": 52,
       "Speed": 45
     }
   },
@@ -15319,8 +15319,8 @@ export const pokedex = [{
       "HP": 50,
       "Attack": 63,
       "Defense": 152,
-      "Sp. Attack": 53,
-      "Sp. Defense": 142,
+      "SpAttack": 53,
+      "SpDefense": 142,
       "Speed": 35
     }
   },
@@ -15339,8 +15339,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "SpAttack": 45,
+      "SpDefense": 55,
       "Speed": 45
     }
   },
@@ -15359,8 +15359,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 85,
+      "SpAttack": 55,
+      "SpDefense": 85,
       "Speed": 35
     }
   },
@@ -15380,8 +15380,8 @@ export const pokedex = [{
       "HP": 38,
       "Attack": 40,
       "Defense": 52,
-      "Sp. Attack": 40,
-      "Sp. Defense": 72,
+      "SpAttack": 40,
+      "SpDefense": 72,
       "Speed": 27
     }
   },
@@ -15401,8 +15401,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 70,
       "Defense": 92,
-      "Sp. Attack": 50,
-      "Sp. Defense": 132,
+      "SpAttack": 50,
+      "SpDefense": 132,
       "Speed": 42
     }
   },
@@ -15421,8 +15421,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 55,
       "Defense": 35,
-      "Sp. Attack": 50,
-      "Sp. Defense": 35,
+      "SpAttack": 50,
+      "SpDefense": 35,
       "Speed": 35
     }
   },
@@ -15441,8 +15441,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 105,
       "Defense": 90,
-      "Sp. Attack": 80,
-      "Sp. Defense": 90,
+      "SpAttack": 80,
+      "SpDefense": 90,
       "Speed": 45
     }
   },
@@ -15462,8 +15462,8 @@ export const pokedex = [{
       "HP": 40,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 75,
+      "SpAttack": 65,
+      "SpDefense": 75,
       "Speed": 15
     }
   },
@@ -15483,8 +15483,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 45,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "SpAttack": 90,
+      "SpDefense": 100,
       "Speed": 30
     }
   },
@@ -15504,8 +15504,8 @@ export const pokedex = [{
       "HP": 48,
       "Attack": 44,
       "Defense": 40,
-      "Sp. Attack": 71,
-      "Sp. Defense": 40,
+      "SpAttack": 71,
+      "SpDefense": 40,
       "Speed": 77
     }
   },
@@ -15525,8 +15525,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 64,
       "Defense": 60,
-      "Sp. Attack": 111,
-      "Sp. Defense": 60,
+      "SpAttack": 111,
+      "SpDefense": 60,
       "Speed": 117
     }
   },
@@ -15546,8 +15546,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 75,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "SpAttack": 45,
+      "SpDefense": 50,
       "Speed": 50
     }
   },
@@ -15567,8 +15567,8 @@ export const pokedex = [{
       "HP": 120,
       "Attack": 125,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "SpAttack": 55,
+      "SpDefense": 60,
       "Speed": 60
     }
   },
@@ -15587,8 +15587,8 @@ export const pokedex = [{
       "HP": 42,
       "Attack": 30,
       "Defense": 38,
-      "Sp. Attack": 30,
-      "Sp. Defense": 38,
+      "SpAttack": 30,
+      "SpDefense": 38,
       "Speed": 32
     }
   },
@@ -15607,8 +15607,8 @@ export const pokedex = [{
       "HP": 52,
       "Attack": 40,
       "Defense": 48,
-      "Sp. Attack": 40,
-      "Sp. Defense": 48,
+      "SpAttack": 40,
+      "SpDefense": 48,
       "Speed": 62
     }
   },
@@ -15627,8 +15627,8 @@ export const pokedex = [{
       "HP": 72,
       "Attack": 120,
       "Defense": 98,
-      "Sp. Attack": 50,
-      "Sp. Defense": 98,
+      "SpAttack": 50,
+      "SpDefense": 98,
       "Speed": 72
     }
   },
@@ -15647,8 +15647,8 @@ export const pokedex = [{
       "HP": 51,
       "Attack": 52,
       "Defense": 90,
-      "Sp. Attack": 82,
-      "Sp. Defense": 110,
+      "SpAttack": 82,
+      "SpDefense": 110,
       "Speed": 100
     }
   },
@@ -15668,8 +15668,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 60,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 110,
+      "SpAttack": 90,
+      "SpDefense": 110,
       "Speed": 60
     }
   },
@@ -15688,8 +15688,8 @@ export const pokedex = [{
       "HP": 100,
       "Attack": 120,
       "Defense": 90,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "SpAttack": 40,
+      "SpDefense": 60,
       "Speed": 80
     }
   },
@@ -15709,8 +15709,8 @@ export const pokedex = [{
       "HP": 25,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "SpAttack": 20,
+      "SpDefense": 30,
       "Speed": 80
     }
   },
@@ -15730,8 +15730,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 125,
       "Defense": 140,
-      "Sp. Attack": 60,
-      "Sp. Defense": 90,
+      "SpAttack": 60,
+      "SpDefense": 90,
       "Speed": 40
     }
   },
@@ -15751,8 +15751,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 55,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 45,
+      "SpAttack": 70,
+      "SpDefense": 45,
       "Speed": 15
     }
   },
@@ -15772,8 +15772,8 @@ export const pokedex = [{
       "HP": 85,
       "Attack": 75,
       "Defense": 110,
-      "Sp. Attack": 100,
-      "Sp. Defense": 75,
+      "SpAttack": 100,
+      "SpDefense": 75,
       "Speed": 35
     }
   },
@@ -15792,8 +15792,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 60,
       "Defense": 130,
-      "Sp. Attack": 30,
-      "Sp. Defense": 130,
+      "SpAttack": 30,
+      "SpDefense": 130,
       "Speed": 5
     }
   },
@@ -15812,8 +15812,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "SpAttack": 95,
+      "SpDefense": 95,
       "Speed": 59
     }
   },
@@ -15832,8 +15832,8 @@ export const pokedex = [{
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "SpAttack": 95,
+      "SpDefense": 95,
       "Speed": 95
     }
   },
@@ -15853,8 +15853,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 60,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 100,
+      "SpAttack": 60,
+      "SpDefense": 100,
       "Speed": 60
     }
   },
@@ -15873,8 +15873,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 75,
-      "Sp. Defense": 95,
+      "SpAttack": 75,
+      "SpDefense": 95,
       "Speed": 65
     }
   },
@@ -15894,8 +15894,8 @@ export const pokedex = [{
       "HP": 60,
       "Attack": 78,
       "Defense": 135,
-      "Sp. Attack": 91,
-      "Sp. Defense": 85,
+      "SpAttack": 91,
+      "SpDefense": 85,
       "Speed": 36
     }
   },
@@ -15915,8 +15915,8 @@ export const pokedex = [{
       "HP": 65,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 40,
-      "Sp. Defense": 73,
+      "SpAttack": 40,
+      "SpDefense": 73,
       "Speed": 96
     }
   },
@@ -15936,8 +15936,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 50,
-      "Sp. Defense": 105,
+      "SpAttack": 50,
+      "SpDefense": 105,
       "Speed": 96
     }
   },
@@ -15957,8 +15957,8 @@ export const pokedex = [{
       "HP": 68,
       "Attack": 105,
       "Defense": 70,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 92
     }
   },
@@ -15978,8 +15978,8 @@ export const pokedex = [{
       "HP": 78,
       "Attack": 60,
       "Defense": 85,
-      "Sp. Attack": 135,
-      "Sp. Defense": 91,
+      "SpAttack": 135,
+      "SpDefense": 91,
       "Speed": 36
     }
   },
@@ -15999,8 +15999,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 131,
       "Defense": 100,
-      "Sp. Attack": 86,
-      "Sp. Defense": 90,
+      "SpAttack": 86,
+      "SpDefense": 90,
       "Speed": 40
     }
   },
@@ -16019,8 +16019,8 @@ export const pokedex = [{
       "HP": 45,
       "Attack": 55,
       "Defense": 65,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "SpAttack": 45,
+      "SpDefense": 45,
       "Speed": 45
     }
   },
@@ -16040,8 +16040,8 @@ export const pokedex = [{
       "HP": 55,
       "Attack": 75,
       "Defense": 90,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "SpAttack": 65,
+      "SpDefense": 70,
       "Speed": 65
     }
   },
@@ -16061,8 +16061,8 @@ export const pokedex = [{
       "HP": 75,
       "Attack": 110,
       "Defense": 125,
-      "Sp. Attack": 100,
-      "Sp. Defense": 105,
+      "SpAttack": 100,
+      "SpDefense": 105,
       "Speed": 85
     }
   },
@@ -16082,8 +16082,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 115,
       "Defense": 85,
-      "Sp. Attack": 95,
-      "Sp. Defense": 75,
+      "SpAttack": 95,
+      "SpDefense": 75,
       "Speed": 130
     }
   },
@@ -16103,8 +16103,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 85,
       "Defense": 75,
-      "Sp. Attack": 130,
-      "Sp. Defense": 115,
+      "SpAttack": 130,
+      "SpDefense": 115,
       "Speed": 95
     }
   },
@@ -16124,8 +16124,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 130,
       "Defense": 115,
-      "Sp. Attack": 85,
-      "Sp. Defense": 95,
+      "SpAttack": 85,
+      "SpDefense": 95,
       "Speed": 75
     }
   },
@@ -16145,8 +16145,8 @@ export const pokedex = [{
       "HP": 70,
       "Attack": 75,
       "Defense": 115,
-      "Sp. Attack": 95,
-      "Sp. Defense": 130,
+      "SpAttack": 95,
+      "SpDefense": 130,
       "Speed": 85
     }
   },
@@ -16165,8 +16165,8 @@ export const pokedex = [{
       "HP": 43,
       "Attack": 29,
       "Defense": 31,
-      "Sp. Attack": 29,
-      "Sp. Defense": 31,
+      "SpAttack": 29,
+      "SpDefense": 31,
       "Speed": 37
     }
   },
@@ -16185,8 +16185,8 @@ export const pokedex = [{
       "HP": 43,
       "Attack": 29,
       "Defense": 131,
-      "Sp. Attack": 29,
-      "Sp. Defense": 131,
+      "SpAttack": 29,
+      "SpDefense": 131,
       "Speed": 37
     }
   },
@@ -16206,8 +16206,8 @@ export const pokedex = [{
       "HP": 137,
       "Attack": 137,
       "Defense": 107,
-      "Sp. Attack": 113,
-      "Sp. Defense": 89,
+      "SpAttack": 113,
+      "SpDefense": 89,
       "Speed": 97
     }
   },
@@ -16227,8 +16227,8 @@ export const pokedex = [{
       "HP": 137,
       "Attack": 113,
       "Defense": 89,
-      "Sp. Attack": 137,
-      "Sp. Defense": 107,
+      "SpAttack": 137,
+      "SpDefense": 107,
       "Speed": 97
     }
   },
@@ -16248,8 +16248,8 @@ export const pokedex = [{
       "HP": 109,
       "Attack": 53,
       "Defense": 47,
-      "Sp. Attack": 127,
-      "Sp. Defense": 131,
+      "SpAttack": 127,
+      "SpDefense": 131,
       "Speed": 103
     }
   },
@@ -16269,8 +16269,8 @@ export const pokedex = [{
       "HP": 107,
       "Attack": 139,
       "Defense": 139,
-      "Sp. Attack": 53,
-      "Sp. Defense": 53,
+      "SpAttack": 53,
+      "SpDefense": 53,
       "Speed": 79
     }
   },
@@ -16290,8 +16290,8 @@ export const pokedex = [{
       "HP": 71,
       "Attack": 137,
       "Defense": 37,
-      "Sp. Attack": 137,
-      "Sp. Defense": 37,
+      "SpAttack": 137,
+      "SpDefense": 37,
       "Speed": 151
     }
   },
@@ -16310,8 +16310,8 @@ export const pokedex = [{
       "HP": 83,
       "Attack": 89,
       "Defense": 71,
-      "Sp. Attack": 173,
-      "Sp. Defense": 71,
+      "SpAttack": 173,
+      "SpDefense": 71,
       "Speed": 83
     }
   },
@@ -16331,8 +16331,8 @@ export const pokedex = [{
       "HP": 97,
       "Attack": 101,
       "Defense": 103,
-      "Sp. Attack": 107,
-      "Sp. Defense": 101,
+      "SpAttack": 107,
+      "SpDefense": 101,
       "Speed": 61
     }
   },
@@ -16352,8 +16352,8 @@ export const pokedex = [{
       "HP": 59,
       "Attack": 181,
       "Defense": 131,
-      "Sp. Attack": 59,
-      "Sp. Defense": 31,
+      "SpAttack": 59,
+      "SpDefense": 31,
       "Speed": 109
     }
   },
@@ -16373,8 +16373,8 @@ export const pokedex = [{
       "HP": 223,
       "Attack": 101,
       "Defense": 53,
-      "Sp. Attack": 97,
-      "Sp. Defense": 53,
+      "SpAttack": 97,
+      "SpDefense": 53,
       "Speed": 43
     }
   },
@@ -16393,8 +16393,8 @@ export const pokedex = [{
       "HP": 97,
       "Attack": 107,
       "Defense": 101,
-      "Sp. Attack": 127,
-      "Sp. Defense": 89,
+      "SpAttack": 127,
+      "SpDefense": 89,
       "Speed": 79
     }
   },
@@ -16414,8 +16414,8 @@ export const pokedex = [{
       "HP": 80,
       "Attack": 95,
       "Defense": 115,
-      "Sp. Attack": 130,
-      "Sp. Defense": 115,
+      "SpAttack": 130,
+      "SpDefense": 115,
       "Speed": 65
     }
   },
@@ -16435,8 +16435,8 @@ export const pokedex = [{
       "HP": 90,
       "Attack": 125,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 90,
+      "SpAttack": 90,
+      "SpDefense": 90,
       "Speed": 125
     }
   },
@@ -16455,8 +16455,8 @@ export const pokedex = [{
       "HP": 67,
       "Attack": 73,
       "Defense": 67,
-      "Sp. Attack": 73,
-      "Sp. Defense": 67,
+      "SpAttack": 73,
+      "SpDefense": 67,
       "Speed": 73
     }
   },
@@ -16476,8 +16476,8 @@ export const pokedex = [{
       "HP": 73,
       "Attack": 73,
       "Defense": 73,
-      "Sp. Attack": 127,
-      "Sp. Defense": 73,
+      "SpAttack": 127,
+      "SpDefense": 73,
       "Speed": 121
     }
   },
@@ -16497,8 +16497,8 @@ export const pokedex = [{
       "HP": 61,
       "Attack": 131,
       "Defense": 211,
-      "Sp. Attack": 53,
-      "Sp. Defense": 101,
+      "SpAttack": 53,
+      "SpDefense": 101,
       "Speed": 13
     }
   },
@@ -16518,8 +16518,8 @@ export const pokedex = [{
       "HP": 53,
       "Attack": 127,
       "Defense": 53,
-      "Sp. Attack": 151,
-      "Sp. Defense": 79,
+      "SpAttack": 151,
+      "SpDefense": 79,
       "Speed": 107
     }
   },
@@ -16538,8 +16538,8 @@ export const pokedex = [{
       "HP": 88,
       "Attack": 112,
       "Defense": 75,
-      "Sp. Attack": 102,
-      "Sp. Defense": 80,
+      "SpAttack": 102,
+      "SpDefense": 80,
       "Speed": 143
     }
   },
@@ -16558,8 +16558,8 @@ export const pokedex = [{
       "HP": 46,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 35,
+      "SpAttack": 55,
+      "SpDefense": 35,
       "Speed": 34
     }
   },
@@ -16578,8 +16578,8 @@ export const pokedex = [{
       "HP": 135,
       "Attack": 143,
       "Defense": 143,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "SpAttack": 80,
+      "SpDefense": 65,
       "Speed": 34
     }
   }
