@@ -2,7 +2,7 @@ import asyncHandler from '../middlewares/asyncHandler.js';
 import ErrorResponse from '../utils/ErrorResponse.js';
 import ActiveGame from '../models/ActiveGame.js';
 //import { pokedex } from './pokeController.js';
-import Pokemon from '../models/Pokemon.js';
+//import Pokemon from '../models/Pokemon.js';
 import GameMove from '../models/GameMove.js';
 import FinishedGame from '../models/FinishedGame.js';
 import User from '../models/User.js';

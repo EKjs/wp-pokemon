@@ -1,6 +1,6 @@
 import asyncHandler from '../middlewares/asyncHandler.js';
 import ErrorResponse from '../utils/ErrorResponse.js';
-import { promises as fs } from 'fs';
+//import { promises as fs } from 'fs';
 import Pokemon from '../models/Pokemon.js';
 
 /* const readPokeDexData = async () =>{
